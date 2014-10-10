@@ -1,0 +1,133 @@
+C:\Documents and Settings\Administrator\桌面\NewsSolution\model\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution\model\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution\model\obj\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution\model\obj\Debug\model.pdb
+D:\Documents\Desktop\NewsSolution\model\bin\Debug\model.dll
+D:\Documents\Desktop\NewsSolution\model\bin\Debug\model.pdb
+D:\Documents\Desktop\NewsSolution\model\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Desktop\NewsSolution\model\obj\Debug\model.dll
+D:\Documents\Desktop\NewsSolution\model\obj\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\model\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\model\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\model\obj\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\model\obj\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\model\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\model\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\model\obj\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\model\obj\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\model\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\model\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\model\obj\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\model\obj\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\model\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\model\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\model\obj\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\model\obj\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\model\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\model\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\model\obj\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\model\obj\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\model\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\model\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\model\obj\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\model\obj\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\model\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\model\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\model\obj\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\model\obj\Debug\model.pdb
+E:\java\NewsSolution2\model\bin\Debug\model.dll
+E:\java\NewsSolution2\model\bin\Debug\model.pdb
+E:\java\NewsSolution2\model\obj\Debug\ResolveAssemblyReference.cache
+E:\java\NewsSolution2\model\obj\Debug\model.dll
+E:\java\NewsSolution2\model\obj\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\model\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\model\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\model\obj\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\model\obj\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\model\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\model\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\model\obj\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\model\obj\Debug\model.pdb
+D:\Documents\Desktop\NewsSolution2\model\bin\Debug\model.dll
+D:\Documents\Desktop\NewsSolution2\model\bin\Debug\model.pdb
+D:\Documents\Desktop\NewsSolution2\model\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Desktop\NewsSolution2\model\obj\Debug\model.dll
+D:\Documents\Desktop\NewsSolution2\model\obj\Debug\model.pdb
+F:\java\NewsSolution14\model\bin\Debug\model.dll
+F:\java\NewsSolution14\model\bin\Debug\model.pdb
+F:\java\NewsSolution14\model\obj\Debug\ResolveAssemblyReference.cache
+F:\java\NewsSolution14\model\obj\Debug\model.dll
+F:\java\NewsSolution14\model\obj\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\model\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\model\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\model\obj\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\model\obj\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\model\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\model\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\model\obj\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\model\obj\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\model\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\model\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\model\obj\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\model\obj\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\model\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\model\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\model\obj\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\model\obj\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\model\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\model\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\model\obj\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\model\obj\Debug\model.pdb
+E:\NewsSolution39 - 副本\model\bin\Debug\model.dll
+E:\NewsSolution39 - 副本\model\bin\Debug\model.pdb
+E:\NewsSolution39 - 副本\model\obj\Debug\ResolveAssemblyReference.cache
+E:\NewsSolution39 - 副本\model\obj\Debug\model.dll
+E:\NewsSolution39 - 副本\model\obj\Debug\model.pdb
+H:\临时\E科技工作室\NewsSolution39\model\bin\Debug\model.dll
+H:\临时\E科技工作室\NewsSolution39\model\bin\Debug\model.pdb
+H:\临时\E科技工作室\NewsSolution39\model\obj\Debug\ResolveAssemblyReference.cache
+H:\临时\E科技工作室\NewsSolution39\model\obj\Debug\model.dll
+H:\临时\E科技工作室\NewsSolution39\model\obj\Debug\model.pdb
+E:\E科技工作室(新)\NewsSolution39\model\bin\Debug\model.dll
+E:\E科技工作室(新)\NewsSolution39\model\bin\Debug\model.pdb
+E:\E科技工作室(新)\NewsSolution39\model\obj\Debug\ResolveAssemblyReference.cache
+E:\E科技工作室(新)\NewsSolution39\model\obj\Debug\model.dll
+E:\E科技工作室(新)\NewsSolution39\model\obj\Debug\model.pdb
+H:\XiangMu\Ekeji\NewsSolution39\model\bin\Debug\model.dll
+H:\XiangMu\Ekeji\NewsSolution39\model\bin\Debug\model.pdb
+H:\XiangMu\Ekeji\NewsSolution39\model\obj\Debug\model.dll
+H:\XiangMu\Ekeji\NewsSolution39\model\obj\Debug\model.pdb
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\model\bin\Debug\model.dll
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\model\bin\Debug\model.pdb
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\model\obj\Debug\model.dll
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\model\obj\Debug\model.pdb
+C:\Users\zhi\Desktop\NewsSolution39\model\bin\Debug\model.dll
+C:\Users\zhi\Desktop\NewsSolution39\model\bin\Debug\model.pdb
+C:\Users\zhi\Desktop\NewsSolution39\model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\zhi\Desktop\NewsSolution39\model\obj\Debug\model.dll
+C:\Users\zhi\Desktop\NewsSolution39\model\obj\Debug\model.pdb
+X:\课程\ASP\NewsSolution39\model\bin\Debug\model.dll
+X:\课程\ASP\NewsSolution39\model\bin\Debug\model.pdb
+X:\课程\ASP\NewsSolution39\model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+X:\课程\ASP\NewsSolution39\model\obj\Debug\model.dll
+X:\课程\ASP\NewsSolution39\model\obj\Debug\model.pdb
+C:\Users\zhi\Desktop\Software\model\bin\Debug\model.dll
+C:\Users\zhi\Desktop\Software\model\bin\Debug\model.pdb
+C:\Users\zhi\Desktop\Software\model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\zhi\Desktop\Software\model\obj\Debug\model.dll
+C:\Users\zhi\Desktop\Software\model\obj\Debug\model.pdb

@@ -1,0 +1,297 @@
+C:\Documents and Settings\Administrator\桌面\NewsSolution\Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution\Bll\bin\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution\Bll\bin\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution\Bll\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution\Bll\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution\Bll\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution\Bll\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution\Bll\obj\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution\Bll\obj\Debug\Bll.pdb
+D:\Documents\Desktop\NewsSolution\Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Desktop\NewsSolution\Bll\obj\Debug\Bll.pdb
+D:\Documents\Desktop\NewsSolution\Bll\bin\Debug\Bll.dll
+D:\Documents\Desktop\NewsSolution\Bll\bin\Debug\Bll.pdb
+D:\Documents\Desktop\NewsSolution\Bll\bin\Debug\Dal.dll
+D:\Documents\Desktop\NewsSolution\Bll\bin\Debug\model.dll
+D:\Documents\Desktop\NewsSolution\Bll\bin\Debug\brwlcms.DBUtility.dll
+D:\Documents\Desktop\NewsSolution\Bll\bin\Debug\Dal.pdb
+D:\Documents\Desktop\NewsSolution\Bll\bin\Debug\model.pdb
+D:\Documents\Desktop\NewsSolution\Bll\bin\Debug\brwlcms.DBUtility.pdb
+D:\Documents\Desktop\NewsSolution\Bll\obj\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\Bll\obj\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\Bll\obj\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\Bll\bin\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\Bll\bin\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\Bll\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\Bll\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\Bll\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\Bll\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\Bll\bin\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\Bll\bin\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\Bll\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\Bll\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\Bll\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\Bll\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\Bll\obj\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\Bll\obj\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\Bll\bin\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\Bll\bin\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\Bll\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\Bll\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\Bll\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\Bll\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\Bll\obj\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\Bll\obj\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\Bll\bin\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\Bll\bin\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\Bll\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\Bll\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\Bll\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\Bll\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\Bll\obj\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\Bll\obj\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\Bll\bin\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\Bll\bin\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\Bll\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\Bll\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\Bll\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\Bll\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\Bll\obj\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\Bll\obj\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\Bll\bin\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\Bll\bin\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\Bll\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\Bll\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\Bll\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\Bll\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\Bll\obj\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\Bll\obj\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\Bll\bin\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\Bll\bin\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\Bll\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\Bll\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\Bll\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\Bll\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\Bll\obj\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\Bll\obj\Debug\Bll.pdb
+E:\java\NewsSolution2\Bll\bin\Debug\Bll.dll
+E:\java\NewsSolution2\Bll\bin\Debug\Bll.pdb
+E:\java\NewsSolution2\Bll\bin\Debug\Dal.dll
+E:\java\NewsSolution2\Bll\bin\Debug\model.dll
+E:\java\NewsSolution2\Bll\bin\Debug\brwlcms.DBUtility.dll
+E:\java\NewsSolution2\Bll\bin\Debug\Dal.pdb
+E:\java\NewsSolution2\Bll\bin\Debug\model.pdb
+E:\java\NewsSolution2\Bll\bin\Debug\brwlcms.DBUtility.pdb
+E:\java\NewsSolution2\Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\java\NewsSolution2\Bll\obj\Debug\Bll.dll
+E:\java\NewsSolution2\Bll\obj\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\Bll\bin\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\Bll\bin\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\Bll\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\Bll\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\Bll\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\Bll\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\Bll\obj\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\Bll\obj\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\Bll\bin\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\Bll\bin\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\Bll\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\Bll\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\Bll\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\Bll\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\Bll\obj\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\Bll\obj\Debug\Bll.pdb
+D:\Documents\Desktop\NewsSolution2\Bll\bin\Debug\Bll.dll
+D:\Documents\Desktop\NewsSolution2\Bll\bin\Debug\Bll.pdb
+D:\Documents\Desktop\NewsSolution2\Bll\bin\Debug\Dal.dll
+D:\Documents\Desktop\NewsSolution2\Bll\bin\Debug\model.dll
+D:\Documents\Desktop\NewsSolution2\Bll\bin\Debug\brwlcms.DBUtility.dll
+D:\Documents\Desktop\NewsSolution2\Bll\bin\Debug\Dal.pdb
+D:\Documents\Desktop\NewsSolution2\Bll\bin\Debug\model.pdb
+D:\Documents\Desktop\NewsSolution2\Bll\bin\Debug\brwlcms.DBUtility.pdb
+D:\Documents\Desktop\NewsSolution2\Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Desktop\NewsSolution2\Bll\obj\Debug\Bll.dll
+D:\Documents\Desktop\NewsSolution2\Bll\obj\Debug\Bll.pdb
+F:\java\NewsSolution14\Bll\bin\Debug\Bll.dll
+F:\java\NewsSolution14\Bll\bin\Debug\Bll.pdb
+F:\java\NewsSolution14\Bll\bin\Debug\Dal.dll
+F:\java\NewsSolution14\Bll\bin\Debug\model.dll
+F:\java\NewsSolution14\Bll\bin\Debug\brwlcms.DBUtility.dll
+F:\java\NewsSolution14\Bll\bin\Debug\Dal.pdb
+F:\java\NewsSolution14\Bll\bin\Debug\model.pdb
+F:\java\NewsSolution14\Bll\bin\Debug\brwlcms.DBUtility.pdb
+F:\java\NewsSolution14\Bll\obj\Debug\ResolveAssemblyReference.cache
+F:\java\NewsSolution14\Bll\obj\Debug\Bll.dll
+F:\java\NewsSolution14\Bll\obj\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\Bll\bin\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\Bll\bin\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\Bll\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\Bll\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\Bll\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\Bll\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\Bll\obj\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\Bll\obj\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\Bll\bin\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\Bll\bin\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\Bll\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\Bll\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\Bll\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\Bll\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\Bll\obj\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\Bll\obj\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\Bll\bin\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\Bll\bin\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\Bll\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\Bll\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\Bll\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\Bll\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\Bll\obj\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\Bll\obj\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\Bll\bin\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\Bll\bin\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\Bll\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\Bll\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\Bll\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\Bll\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\Bll\obj\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\Bll\obj\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\Bll\bin\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\Bll\bin\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\Bll\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\Bll\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\Bll\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\Bll\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\Bll\obj\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\Bll\obj\Debug\Bll.pdb
+E:\NewsSolution39 - 副本\Bll\bin\Debug\Bll.dll
+E:\NewsSolution39 - 副本\Bll\bin\Debug\Bll.pdb
+E:\NewsSolution39 - 副本\Bll\bin\Debug\Dal.dll
+E:\NewsSolution39 - 副本\Bll\bin\Debug\model.dll
+E:\NewsSolution39 - 副本\Bll\bin\Debug\brwlcms.DBUtility.dll
+E:\NewsSolution39 - 副本\Bll\bin\Debug\Dal.pdb
+E:\NewsSolution39 - 副本\Bll\bin\Debug\model.pdb
+E:\NewsSolution39 - 副本\Bll\bin\Debug\brwlcms.DBUtility.pdb
+E:\NewsSolution39 - 副本\Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\NewsSolution39 - 副本\Bll\obj\Debug\Bll.dll
+E:\NewsSolution39 - 副本\Bll\obj\Debug\Bll.pdb
+H:\临时\E科技工作室\NewsSolution39\Bll\bin\Debug\Bll.dll
+H:\临时\E科技工作室\NewsSolution39\Bll\bin\Debug\Bll.pdb
+H:\临时\E科技工作室\NewsSolution39\Bll\bin\Debug\Dal.dll
+H:\临时\E科技工作室\NewsSolution39\Bll\bin\Debug\model.dll
+H:\临时\E科技工作室\NewsSolution39\Bll\bin\Debug\brwlcms.DBUtility.dll
+H:\临时\E科技工作室\NewsSolution39\Bll\bin\Debug\Dal.pdb
+H:\临时\E科技工作室\NewsSolution39\Bll\bin\Debug\model.pdb
+H:\临时\E科技工作室\NewsSolution39\Bll\bin\Debug\brwlcms.DBUtility.pdb
+H:\临时\E科技工作室\NewsSolution39\Bll\obj\Debug\ResolveAssemblyReference.cache
+H:\临时\E科技工作室\NewsSolution39\Bll\obj\Debug\Bll.dll
+H:\临时\E科技工作室\NewsSolution39\Bll\obj\Debug\Bll.pdb
+E:\E科技工作室(新)\NewsSolution39\Bll\bin\Debug\Bll.dll
+E:\E科技工作室(新)\NewsSolution39\Bll\bin\Debug\Bll.pdb
+E:\E科技工作室(新)\NewsSolution39\Bll\bin\Debug\Dal.dll
+E:\E科技工作室(新)\NewsSolution39\Bll\bin\Debug\model.dll
+E:\E科技工作室(新)\NewsSolution39\Bll\bin\Debug\brwlcms.DBUtility.dll
+E:\E科技工作室(新)\NewsSolution39\Bll\bin\Debug\Dal.pdb
+E:\E科技工作室(新)\NewsSolution39\Bll\bin\Debug\model.pdb
+E:\E科技工作室(新)\NewsSolution39\Bll\bin\Debug\brwlcms.DBUtility.pdb
+E:\E科技工作室(新)\NewsSolution39\Bll\obj\Debug\ResolveAssemblyReference.cache
+E:\E科技工作室(新)\NewsSolution39\Bll\obj\Debug\Bll.dll
+E:\E科技工作室(新)\NewsSolution39\Bll\obj\Debug\Bll.pdb
+H:\XiangMu\Ekeji\NewsSolution39\Bll\bin\Debug\Bll.dll
+H:\XiangMu\Ekeji\NewsSolution39\Bll\bin\Debug\Bll.pdb
+H:\XiangMu\Ekeji\NewsSolution39\Bll\bin\Debug\Dal.dll
+H:\XiangMu\Ekeji\NewsSolution39\Bll\bin\Debug\model.dll
+H:\XiangMu\Ekeji\NewsSolution39\Bll\bin\Debug\brwlcms.DBUtility.dll
+H:\XiangMu\Ekeji\NewsSolution39\Bll\bin\Debug\Dal.pdb
+H:\XiangMu\Ekeji\NewsSolution39\Bll\bin\Debug\model.pdb
+H:\XiangMu\Ekeji\NewsSolution39\Bll\bin\Debug\brwlcms.DBUtility.pdb
+H:\XiangMu\Ekeji\NewsSolution39\Bll\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+H:\XiangMu\Ekeji\NewsSolution39\Bll\obj\Debug\Bll.dll
+H:\XiangMu\Ekeji\NewsSolution39\Bll\obj\Debug\Bll.pdb
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\Bll\bin\Debug\Bll.dll
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\Bll\bin\Debug\Bll.pdb
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\Bll\bin\Debug\Dal.dll
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\Bll\bin\Debug\model.dll
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\Bll\bin\Debug\brwlcms.DBUtility.dll
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\Bll\bin\Debug\Dal.pdb
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\Bll\bin\Debug\model.pdb
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\Bll\bin\Debug\brwlcms.DBUtility.pdb
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\Bll\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\Bll\obj\Debug\Bll.dll
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\Bll\obj\Debug\Bll.pdb
+C:\Users\zhi\Desktop\NewsSolution39\Bll\bin\Debug\Bll.dll
+C:\Users\zhi\Desktop\NewsSolution39\Bll\bin\Debug\Bll.pdb
+C:\Users\zhi\Desktop\NewsSolution39\Bll\bin\Debug\Dal.dll
+C:\Users\zhi\Desktop\NewsSolution39\Bll\bin\Debug\model.dll
+C:\Users\zhi\Desktop\NewsSolution39\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Users\zhi\Desktop\NewsSolution39\Bll\bin\Debug\Dal.pdb
+C:\Users\zhi\Desktop\NewsSolution39\Bll\bin\Debug\model.pdb
+C:\Users\zhi\Desktop\NewsSolution39\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Users\zhi\Desktop\NewsSolution39\Bll\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\zhi\Desktop\NewsSolution39\Bll\obj\Debug\Bll.dll
+C:\Users\zhi\Desktop\NewsSolution39\Bll\obj\Debug\Bll.pdb
+X:\课程\ASP\NewsSolution39\Bll\bin\Debug\Bll.dll
+X:\课程\ASP\NewsSolution39\Bll\bin\Debug\Bll.pdb
+X:\课程\ASP\NewsSolution39\Bll\bin\Debug\Dal.dll
+X:\课程\ASP\NewsSolution39\Bll\bin\Debug\model.dll
+X:\课程\ASP\NewsSolution39\Bll\bin\Debug\brwlcms.DBUtility.dll
+X:\课程\ASP\NewsSolution39\Bll\bin\Debug\Dal.pdb
+X:\课程\ASP\NewsSolution39\Bll\bin\Debug\model.pdb
+X:\课程\ASP\NewsSolution39\Bll\bin\Debug\brwlcms.DBUtility.pdb
+X:\课程\ASP\NewsSolution39\Bll\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+X:\课程\ASP\NewsSolution39\Bll\obj\Debug\Bll.dll
+X:\课程\ASP\NewsSolution39\Bll\obj\Debug\Bll.pdb
+C:\Users\zhi\Desktop\Software\Bll\bin\Debug\Bll.dll
+C:\Users\zhi\Desktop\Software\Bll\bin\Debug\Bll.pdb
+C:\Users\zhi\Desktop\Software\Bll\bin\Debug\Dal.dll
+C:\Users\zhi\Desktop\Software\Bll\bin\Debug\model.dll
+C:\Users\zhi\Desktop\Software\Bll\bin\Debug\brwlcms.DBUtility.dll
+C:\Users\zhi\Desktop\Software\Bll\bin\Debug\Dal.pdb
+C:\Users\zhi\Desktop\Software\Bll\bin\Debug\model.pdb
+C:\Users\zhi\Desktop\Software\Bll\bin\Debug\brwlcms.DBUtility.pdb
+C:\Users\zhi\Desktop\Software\Bll\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\zhi\Desktop\Software\Bll\obj\Debug\Bll.dll
+C:\Users\zhi\Desktop\Software\Bll\obj\Debug\Bll.pdb

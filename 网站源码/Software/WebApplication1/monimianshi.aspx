@@ -1,0 +1,213 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="monimianshi.aspx.cs" Inherits="_Default" %>
+<%@ Register Src="~/usercontrol/Menu.ascx" TagName="Menu" TagPrefix="uc1" %>
+<%@ Register Src="~/usercontrol/foot.ascx"  TagName="foot" TagPrefix="uc2" %>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>软件特色专业</title>
+    <link href="~/Styles/Styles.css" rel="stylesheet" type="text/css" />
+    <style>
+
+.cf {zoom:1}
+.cf:after {clear:both; content:"."; display:block; visibility:hidden; height:0}
+.wrap {width:980px; margin:0 auto; padding:100px 0 0}
+#banner {width:800px; margin:0 auto; position:relative; background:#FFF; height:400px; overflow:hidden}
+#banner ul {}
+#banner li {float:left; width:190px; height:190px; cursor:pointer;padding:5px}
+#banner li img {width:190px; height:190px; position:absolute; z-index:4; left:5px; top:5px}
+#banner li span {display:block; width:170px; height:170px; border:10px solid #000; position:absolute; background:#CCC; opacity:0.5; filter:alpha(opacity=50);left:5px; top:5px; z-index:5}
+#banner li span:hover {opacity:0.3; filter:alpha(opacity=30); border:10px solid #000; background:#fff;}
+.btn_wrap {position:absolute; left:820px; top:150px; height:100px; width:37px}
+#goUp {background:url(images/nav.png) no-repeat 4px 4px; width:37px; height:22px; display:block; text-indent:-9999px;position:absolute; left:0; top:0;}
+#goUp:hover {background-position:-34px 4px}
+#goDown {background:url(images/nav.png) no-repeat 4px -52px; width:37px; height:22px; display:block; text-indent:-9999px;position:absolute; left:0; bottom:0;}
+#goDown:hover {background-position:-34px -52px}
+</style>
+
+<script type="text/javascript">
+
+    var JSHELPER = {
+        initi: function () {
+        },
+        animate: function (obj, attrList, callback) {
+            clearInterval(obj.timer);
+            obj.timer = setInterval(function () {
+                var isStop = true;
+                for (var attr in attrList) {
+                    var curAttr = attr === "opacity" ? Math.round(parseFloat(JSHELPER.getStyle(obj, attr) * 100)) : parseInt(JSHELPER.getStyle(obj, attr));
+                    var speed = (attrList[attr] - curAttr) / 8;
+                    speed = speed > 0 ? Math.ceil(speed) : Math.floor(speed);
+                    if (attr === "opacity") {
+                        obj.style.filter = "alpha(opacity=" + (curAttr + speed) + ")";
+                        obj.style.opacity = (curAttr + speed) / 100;
+                    } else {
+                        obj.style[attr] = curAttr + speed + "px";
+                    }
+                    curAttr != attrList[attr] && (isStop = false);
+                }
+                if (isStop) {
+                    clearInterval(obj.timer);
+                    !!callback && callback();
+                }
+            }, 15);
+        },
+        $: function (params) {
+            switch (params.charAt(0)) {
+                case "#":
+                    return document.getElementById(params.substring(1));
+                    break;
+                case ".":
+                    return this.getByClass(document, params.substring(1));
+                default:
+                    return document.getElementsByTagName(params);
+            }
+        },
+        getStyle: function (obj, attr) {
+            return obj.currentStyle ? obj.currentStyle[attr] : getComputedStyle(obj, false)[attr];
+        },
+        getByClass: function (pn, cn) {
+            var ae = pn.getElementsByTagName("*"),
+                rent = [],
+                re = new RegExp('\\b' + cn + '\\b', 'i');
+            for (var i = 0, len = ae.length; i < len; i++) {
+                ae[i].className.search(re) != -1 && rent.push(ae[i]);
+            }
+            return rent;
+        }
+    };
+    window.onload = function () {
+        var btnDown = JSHELPER.$("#goDown"),
+            btnUp = JSHELPER.$("#goUp"),
+            wrap = JSHELPER.$("#banner"),
+            liList = wrap.children[0].children,
+            len = liList.length;
+        wrap.style.overflow = "visible";
+        //设置 left 和  top
+        for (var i = 0; i < len; i++) {
+            liList[i].style.left = liList[i].offsetLeft + "px";
+            if (i >= 12) {
+                liList[i].style.top = "400px";
+            } else {
+                liList[i].style.top = liList[i].offsetTop + "px";
+            }
+        }
+        //添加 position:absolute
+        for (var i = 0; i < len; i++) {
+            liList[i].style.position = "absolute";
+        }
+        //把容器外的设置为透明
+        for (var i = 8; i < len; i++) {
+            liList[i].style.filter = "alpha(opacity=0)";
+            liList[i].style.opacity = 0;
+            liList[i].style.display = "none";
+        }
+
+        var now = 0;
+        //上一个
+        btnUp.onclick = function () {
+            if (now == 0) {
+                return;
+            }
+            var i = now + 8;
+            i = i >= len ? (len - 1) : i;
+            var timerDo = setInterval(function () {
+                if (i < now) {
+                    liList[i].style.display = "block";
+                    JSHELPER.animate(liList[i], { top: 0, opacity: 100 });
+                } else if (i < now + 4) {
+                    JSHELPER.animate(liList[i], { top: 200 });
+                } else {
+                    JSHELPER.animate(liList[i], { top: 400, opacity: 0 });
+                }
+                i--;
+                if (i == now - 5) {
+                    now -= 4;
+                    for (var m = len - 1; m > now + 7; m--) {
+                        liList[m].style.display = "none";
+                    }
+                    clearInterval(timerDo);
+                }
+            }, 50);
+        };
+        //下一个
+        btnDown.onclick = function () {
+            if (now >= len - 8) {
+                return;
+            }
+            var i = now;
+            var timerDo = setInterval(function () {
+                if (i < now + 4) {
+                    JSHELPER.animate(liList[i], { top: -200, opacity: 0 });
+                } else if (i < now + 8) {
+                    JSHELPER.animate(liList[i], { top: 0 });
+                } else {
+                    liList[i].style.display = "block";
+                    JSHELPER.animate(liList[i], { top: 200, opacity: 100 });
+                }
+                i++;
+                if (i == now + 12) {
+                    now += 4;
+                    for (var m = 0; m < now; m++) {
+                        liList[m].style.display = "none";
+                    }
+                    clearInterval(timerDo);
+                }
+            }, 50);
+        };
+
+        //放大镜
+        for (var i = 0; i < len; i++) {
+            (function (i) {
+                liList[i].children[0].onmouseover = function () {
+                    liList[i].style.zIndex = 100;
+                    JSHELPER.animate(liList[i].children[0], { width: 280, height: 280, left: -50, top: -50 });
+                    JSHELPER.animate(liList[i].children[1], { width: 300, height: 300, left: -50, top: -50 });
+                };
+                liList[i].children[0].onmouseout = function () {
+                    liList[i].style.zIndex = 10;
+                    JSHELPER.animate(liList[i].children[0], { width: 170, height: 170, left: 5, top: 5 });
+                    JSHELPER.animate(liList[i].children[1], { width: 190, height: 190, left: 5, top: 5 });
+                };
+            })(i);
+        }
+
+    };
+</script>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="Page">
+      <uc1:Menu id="Menu" runat="server" />
+      <div class="Content">
+          <img src="image/信.png"   alt=""/>
+           <p style=" font-size:18px; font-weight:bold; text-align:left; padding:10px 50px; "> 求职面试，就业准备。
+</p>
+
+	<div id="banner">
+		<ul class="cf">
+			<li><span></span><img src="image/m1.jpg" alt="" /></li>
+			<li><span></span><img src="image/m2.jpg" alt="" /></li>
+			<li><span></span><img src="image/m3.jpg" alt="" /></li>
+			<li><span></span><img src="image/m4.jpg" alt="" /></li>
+			<li><span></span><img src="image/m5.jpg" alt="" /></li>
+			<li><span></span><img src="image/m7.jpg" alt="" /></li>
+			<li><span></span><img src="image/m8.jpg" alt="" /></li>
+			<li><span></span><img src="image/m9.jpg" alt="" /></li>
+		</ul>
+		<div class="btn_wrap">
+			<a href="javascript:;" id="goUp">向上走着</a>
+			<a href="javascript:;" id="goDown">向下走着</a>
+		</div>
+        
+	</div>
+    <p style="margin-top:50px;">学校为了丰富我们的就业准备，举办了各式各样的面试大赛，从大赛中，我们学习到了很多面试技巧。</p>
+
+
+      </div>
+      <uc2:foot id="foot" runat="server"/>
+    </div>
+    </form>
+</body>
+</html>

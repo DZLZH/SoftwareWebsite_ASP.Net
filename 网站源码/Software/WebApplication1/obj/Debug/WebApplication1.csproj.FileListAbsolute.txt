@@ -1,0 +1,212 @@
+C:\Documents and Settings\Administrator\桌面\Web\WebApplication1\bin\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\Web\WebApplication1\bin\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\Web\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Web\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\Web\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\06 宇文雪\WebApplication1\bin\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\06 宇文雪\WebApplication1\bin\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\06 宇文雪\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\06 宇文雪\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\06 宇文雪\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\asp\06 宇文雪\WebApplication1\bin\WebApplication1.dll
+E:\asp\06 宇文雪\WebApplication1\bin\WebApplication1.pdb
+E:\asp\06 宇文雪\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\asp\06 宇文雪\WebApplication1\obj\Debug\WebApplication1.dll
+E:\asp\06 宇文雪\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\WebApplication1\bin\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\WebApplication1\bin\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\WebApplication1\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\WebApplication1\bin\Model.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\WebApplication1\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\WebApplication1\bin\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\WebApplication1\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\WebApplication1\bin\Model.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\WebApplication1\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\WebApplication1\bin\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11\WebApplication1\bin\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11\WebApplication1\bin\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11\WebApplication1\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11\WebApplication1\bin\Model.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11\WebApplication1\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11\WebApplication1\bin\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11\WebApplication1\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11\WebApplication1\bin\Model.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11\WebApplication1\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11\WebApplication1\bin\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.25\WebApplication1\bin\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.25\WebApplication1\bin\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.25\WebApplication1\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.25\WebApplication1\bin\Model.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.25\WebApplication1\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.25\WebApplication1\bin\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.25\WebApplication1\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.25\WebApplication1\bin\Model.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.25\WebApplication1\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.25\WebApplication1\bin\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.25\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.25\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.25\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.28\WebApplication1\bin\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.28\WebApplication1\bin\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.28\WebApplication1\bin\BLL.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.28\WebApplication1\bin\Model.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.28\WebApplication1\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.28\WebApplication1\bin\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.28\WebApplication1\bin\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.28\WebApplication1\bin\Model.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.28\WebApplication1\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.28\WebApplication1\bin\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.28\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.28\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou11.28\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\WebApplication1\bin\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\WebApplication1\bin\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\WebApplication1\bin\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\WebApplication1\bin\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\WebApplication1\bin\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\WebApplication1\bin\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\WebApplication1\bin\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\WebApplication1\bin\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\WebApplication1\bin\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\WebApplication1\bin\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\java\NewsSolution2\WebApplication1\bin\WebApplication1.dll
+E:\java\NewsSolution2\WebApplication1\bin\WebApplication1.pdb
+E:\java\NewsSolution2\WebApplication1\bin\Bll.dll
+E:\java\NewsSolution2\WebApplication1\bin\model.dll
+E:\java\NewsSolution2\WebApplication1\bin\Dal.dll
+E:\java\NewsSolution2\WebApplication1\bin\brwlcms.DBUtility.dll
+E:\java\NewsSolution2\WebApplication1\bin\Bll.pdb
+E:\java\NewsSolution2\WebApplication1\bin\model.pdb
+E:\java\NewsSolution2\WebApplication1\bin\Dal.pdb
+E:\java\NewsSolution2\WebApplication1\bin\brwlcms.DBUtility.pdb
+E:\java\NewsSolution2\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\java\NewsSolution2\WebApplication1\obj\Debug\WebApplication1.dll
+E:\java\NewsSolution2\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\WebApplication1\bin\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\WebApplication1\bin\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\WebApplication1\bin\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\WebApplication1\bin\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\WebApplication1\bin\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\WebApplication1\bin\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\WebApplication1\bin\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\WebApplication1\bin\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\WebApplication1\bin\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\WebApplication1\bin\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\WebApplication1\bin\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\WebApplication1\bin\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\WebApplication1\bin\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\WebApplication1\bin\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\WebApplication1\bin\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\WebApplication1\bin\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\WebApplication1\bin\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\WebApplication1\bin\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\WebApplication1\bin\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\WebApplication1\bin\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\WebApplication1\bin\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\WebApplication1\bin\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\WebApplication1\bin\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\WebApplication1\bin\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\WebApplication1\bin\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\WebApplication1\bin\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\WebApplication1\bin\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\WebApplication1\bin\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\WebApplication1\bin\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\WebApplication1\bin\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Documents\Desktop\NewsSolution2\WebApplication1\bin\WebApplication1.dll
+D:\Documents\Desktop\NewsSolution2\WebApplication1\bin\WebApplication1.pdb
+D:\Documents\Desktop\NewsSolution2\WebApplication1\bin\Bll.dll
+D:\Documents\Desktop\NewsSolution2\WebApplication1\bin\model.dll
+D:\Documents\Desktop\NewsSolution2\WebApplication1\bin\Dal.dll
+D:\Documents\Desktop\NewsSolution2\WebApplication1\bin\brwlcms.DBUtility.dll
+D:\Documents\Desktop\NewsSolution2\WebApplication1\bin\Bll.pdb
+D:\Documents\Desktop\NewsSolution2\WebApplication1\bin\model.pdb
+D:\Documents\Desktop\NewsSolution2\WebApplication1\bin\Dal.pdb
+D:\Documents\Desktop\NewsSolution2\WebApplication1\bin\brwlcms.DBUtility.pdb
+D:\Documents\Desktop\NewsSolution2\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Desktop\NewsSolution2\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Documents\Desktop\NewsSolution2\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\java\NewsSolution14\WebApplication1\bin\WebApplication1.dll
+F:\java\NewsSolution14\WebApplication1\bin\WebApplication1.pdb
+F:\java\NewsSolution14\WebApplication1\bin\Bll.dll
+F:\java\NewsSolution14\WebApplication1\bin\model.dll
+F:\java\NewsSolution14\WebApplication1\bin\Dal.dll
+F:\java\NewsSolution14\WebApplication1\bin\brwlcms.DBUtility.dll
+F:\java\NewsSolution14\WebApplication1\bin\Bll.pdb
+F:\java\NewsSolution14\WebApplication1\bin\model.pdb
+F:\java\NewsSolution14\WebApplication1\bin\Dal.pdb
+F:\java\NewsSolution14\WebApplication1\bin\brwlcms.DBUtility.pdb
+F:\java\NewsSolution14\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\java\NewsSolution14\WebApplication1\obj\Debug\WebApplication1.dll
+F:\java\NewsSolution14\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\WebApplication1\bin\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\WebApplication1\bin\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\WebApplication1\bin\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\WebApplication1\bin\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\WebApplication1\bin\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\WebApplication1\bin\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\WebApplication1\bin\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\WebApplication1\bin\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\WebApplication1\bin\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\WebApplication1\bin\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\WebApplication1\bin\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\WebApplication1\bin\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\WebApplication1\bin\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\WebApplication1\bin\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\WebApplication1\bin\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\WebApplication1\bin\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\WebApplication1\bin\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\WebApplication1\bin\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\WebApplication1\bin\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\WebApplication1\bin\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\WebApplication1\bin\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\WebApplication1\bin\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\WebApplication1\bin\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\WebApplication1\bin\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\WebApplication1\bin\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\WebApplication1\bin\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\WebApplication1\bin\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\WebApplication1\bin\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\WebApplication1\bin\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\WebApplication1\bin\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\WebApplication1\bin\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\WebApplication1\bin\WebApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\WebApplication1\bin\Bll.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\WebApplication1\bin\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\WebApplication1\bin\Dal.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\WebApplication1\bin\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\WebApplication1\bin\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\WebApplication1\bin\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\WebApplication1\bin\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\WebApplication1\bin\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\WebApplication1\obj\Debug\WebApplication1.pdb

@@ -1,0 +1,62 @@
+﻿* { margin:0px auto;}
+
+body{ font-family:宋体; font-size:12px; padding:0px; margin:0px; background-color:#000;}
+ul,li,h4,h3,p,a,h2,h5,h6,dl,dt,dd{margin:0px; padding:0px; list-style:none;}
+img{border:0px;}
+a{text-decoration:none; color:#000;}
+
+.Page{
+    width: 99%;
+    height: 768px;
+    background-color: #000;
+}
+
+
+.Menu{ width:18%; height:695px; float:left;}
+.Menu_top { width:172px; height:300px; background-image:url(../image/logo.png);}
+.Menu_bottom{ padding:50px 0px;font-family:黑体; font-size:14px; font-weight:bold; text-align:center; line-height: 32px;}
+.Menu_bottom a:link,.Menu_bottom a:visited{ color:#fff;}
+.Menu_bottom a:hover{ color:#cdcdcd;}
+
+.Content{ width:82%; height:680px; float:left; background-color:#fff; border-top:15px solid #000; text-align:center;}
+.Content img {   margin-top:10px;}
+.xw { width:42%; height: 140px; text-align:left; margin-left:5%; float:left;}
+.title { width:95%; height:15px;  font-family:黑体; font-size:14px; padding:5px 15px; border-bottom:solid 1px #000;}
+.title p { float:left; }
+.title  span{ float:right;}
+.Content a:link,.title_a a:visited{color:#000; text-decoration:none;}
+.Content a:hover,.title_a a:active{color:#00a6e8; text-decoration:underline;}
+
+.all_a li                 {clear:both; line-height:27px; height:27px; border-bottom:1px dotted #ccc; vertical-align:middle;}
+.all_a li a               {padding-left:10px; margin-left:5px;word-break:keep-all; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; width:170px; float:left;}
+.all_a span { float:right; padding-right:20px;}
+.all_d { margin-top:30px;}
+.all_d li                 {clear:both; line-height:27px; height:27px; margin:0px 50px; vertical-align:middle; text-align:left;}
+.all_d li a               {padding-left:10px;  word-break:keep-all; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+.all_d li span            {float:right; padding-right:5px;}
+
+.about { width:100%; }
+.title_about { width:84%; height:15px; font-family:黑体; font-size:14px; padding:5px 15px; border-bottom:solid 1px #000;text-align:left;}
+ 
+
+
+.jianjie{ margin:50px 50px; text-align:left; }
+.bt {
+	font-size: 14pt;
+	font-weight: bold;
+    margin-bottom:30px;
+}
+.jianjie p { line-height:22px;}
+.jianjie  span{font-size: 12pt; font-weight: bold; }
+
+.title_e                  {height:55px; padding-top:10px; text-align:center; }
+.title_e h3               {line-height:35px; font-size:14px;}
+.title_e p                {padding-bottom:8px;}
+.nr_r_c p                 {line-height:26px; padding-left:25px;  text-align:left; margin-left:30px;}
+
+
+.pingyi_list              {padding:0px 10px; clear:both;}					
+.pingyi_list li           {width:185px; height:130px; float:left; text-align:center; margin-top:10px;}	
+.pingyi_list li p         {padding-top:5px; width:180px;}
+
+.foot { width:100%; height:auto; text-align:center; font-size:14px; color:#fff; margin-bottom:10px;}

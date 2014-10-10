@@ -1,0 +1,2256 @@
+
+/* CSS Document */
+/*line209-.overthis style*/
+body, div, form, li, ul, p, table, h3, h4, h5
+{
+	font-family: Arial,ºÚÌå, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	background-color: #F4F5EB;
+	background-image: none;
+}
+table#all
+{
+	width: 100%;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+table#all td
+{
+	vertical-align: top;
+}
+img
+{
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
+select
+{
+	color: #032F78;
+	
+}
+#top
+{
+	height: 60px;
+	position: relative;
+	width: 100%;
+}
+.topnv
+{
+	position: absolute;
+	right: 5px;
+	bottom: 7px;
+}
+.logout
+{
+	position: absolute;
+	left: 185px;
+	bottom: 7px;
+}
+#top .company
+{
+	right: 10px;
+	top: 10px;
+	position: absolute;
+	font-size: 14px;
+	font-weight: bold;
+	color: #009900;
+}
+#top .logout a
+{
+	padding: 0 2px;
+}
+#top a:link, #top a:visited
+{
+	color: #002F76;
+	text-decoration: underline;
+}
+#top .logout .welcomeu
+{
+	display: inline;
+	margin: 0 8px 0 7px;
+	color: #555;
+}
+#top a:hover
+{
+	color: #c33;
+	text-decoration: underline;
+}
+#top .topnv a
+{
+	background: url(../images/topnvslice.jpg) no-repeat right center;
+	padding: 0 7px 0 3px;
+}
+#top a#sina
+{
+	background-image: none;
+}
+/*sidebar*/
+#sidebar
+{
+	width: 170px;
+	margin-left: 9px;
+	margin-bottom: 10px;
+}
+#sidebar #two_btn
+{
+	position: relative;
+}
+#sidebar #two_btn table.two_btn
+{
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+	border: 1px solid #B4B4B4;
+	border-top: 0;
+	background: url(../images/write_bg.jpg) repeat-x left top;
+}
+#sidebar #two_btn table td
+{
+	cursor: pointer !important;
+	cursor: hand;
+	vertical-align: middle;
+	width: 50%;
+}
+/*æ”¶ä¿¡å†™ä¿¡ico*/
+#sidebar #two_btn .shouxin, #sidebar #two_btn .xiexin
+{
+	background: url(../images/shouxin.gif) no-repeat 8px 5px;
+	height: 49px;
+	text-align: left;
+	line-height: 49px;
+	text-indent: 43px;
+	width: 100%;
+	display: block;
+	color: #002F76;
+	text-decoration: none;
+}
+#sidebar #two_btn a.shouxin:hover
+{
+	background: url(../images/shouxin.gif) no-repeat 8px -40px;
+}
+#sidebar #two_btn .xiexin
+{
+	background: url(../images/shouxin.gif) no-repeat 8px -86px;
+}
+#sidebar #two_btn a.xiexin:hover
+{
+	background: url(../images/shouxin.gif) no-repeat 8px -135px;
+}
+
+#sidebar #two_btn .slice
+{
+	position: absolute;
+	background: url(../images/btn_slice.gif) no-repeat center center;
+	top: 6px;
+	right: 50%;
+	display: block;
+	width: 1px;
+	height: 38px;
+}
+#sidebar #two_btn .b1
+{
+	position: absolute;
+	background: url(http://image2.sina.com.cn/rny/freemail33/mail/btn1_left.jpg) no-repeat left top;
+	top: 0;
+	left: -1px;
+	display: block;
+	width: 3px;
+	height: 51px;
+}
+#sidebar #two_btn .b2
+{
+	position: absolute;
+	background: url(http://image2.sina.com.cn/rny/freemail33/mail/btn1_right.jpg) no-repeat right top;
+	top: 0;
+	right: 0;
+	display: block;
+	width: 3px;
+	height: 51px !important;
+	height: 52px;
+}
+/*DropMenu*/
+#dropmenu
+{
+	position: relative;
+	text-align: left;
+	border: 1px solid #B4B4B4;
+	padding-top: 6px;
+	background-color: #fff;
+	margin-top: 8px;
+}
+#dropmenu #search
+{
+	text-align: left;
+	background: url(../images/sidebar_search_bg.jpg) no-repeat left top;
+	height: 22px;
+	width: 156px;
+	border-left: 6px solid #fff;
+	position: relative;
+}
+#dropmenu #search .inp_search
+{
+	border: 0;
+	height: 16px;
+	margin: 1px 0 0 3px;
+	padding: 1px 0 0 3px;
+	width: 100px;
+}
+#dropmenu #search .advsearch
+{
+	position: absolute;
+	background: url(../images/adv_search.gif) no-repeat left top;
+	left: 111px;
+	width: 45px;
+	height: 22px;
+	top: 0;
+}
+#dropmenu #search .advsearch2
+{
+	background: url(../images/adv_search.gif) no-repeat left -31px;
+}
+#dropmenu #search .advsearch .link_search
+{
+	position: absolute;
+	top: 5px;
+	left: 5px;
+}
+#dropmenu #search .advsearch .btn_adv
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 11px;
+	height: 22px;
+}
+#dropmenu #search .advsearch a:link, #dropmenu #search .advsearch a:visited
+{
+	color: #002F76;
+	text-decoration: none;
+}
+#dropmenu #search .advsearch a:hover
+{
+	color: #002F76;
+}
+#dropmenu #maildir
+{
+	border-top: 1px solid #B4B4B4;
+	margin: 6px 1px 0 1px;
+}
+#dropmenu #maildir h5
+{
+	font-size: 13px;
+	font-weight: normal;
+	margin: 6px 0 0 8px;
+}
+#dropmenu #maildir a:link, #dropmenu #maildir a:visited
+{
+	text-decoration: none;
+	color: #000;
+}
+#dropmenu #maildir a:hover
+{
+	text-decoration: underline;
+}
+#dropmenu #maildir #dirlist
+{
+	margin-top: 4px;
+}
+#dropmenu #maildir #dirlist .dir
+{
+	margin: 0 0 0 15px;
+	color: #7C7C7C;
+	position: relative;
+	height: 21px;
+	line-height: 21px;
+	border: 1px solid #fff;
+}
+#dropmenu #maildir #dirlist .inthis
+{
+	background-color: #eff6ff;
+	border: 1px solid #7FACE7;
+	margin-right: 3px;
+}
+#dropmenu #maildir #dirlist .overthis
+{
+	background-color: #eff6ff;
+	border: 1px solid #eff6ff;
+}
+#dropmenu #maildir #dirlist .dir a
+{
+	color: #7C7C7C;
+	text-decoration: none;
+	display: block;
+	width: 98%;
+	text-indent: 27px;
+	height: 22px;
+	line-height: 22px;
+}
+#dropmenu .more
+{
+	position: absolute;
+	top: 0;
+	right: 6px;
+	color: #002F76;
+}
+#dropmenu #maildir #dirlist .dir .more a:link, #dropmenu #maildir #dirlist .dir .more a:visited
+{
+	color: #002F76;
+	text-decoration: underline;
+	display: inline;
+	width: 26px;
+	padding: 0;
+	margin: 0;
+	text-indent: 0;
+}
+#dropmenu #maildir #dirlist .dir .more a:hover
+{
+	color: #c33;
+	text-decoration: none;
+	display: inline;
+	width: 26px;
+}
+
+#dropmenu #maildir #dirlist .dir strong
+{
+	font-weight: bold;
+	color: #f00;
+	margin-left: 5px;
+}
+#dropmenu #maildir #dirlist .dir b
+{
+	width: 21px;
+	height: 16px;
+	position: absolute;
+	top: 2px;
+	left: 0;
+	display: block;
+	background: url(../images/maillist.gif) no-repeat 5px top;
+}
+#dropmenu #maildir #dirlist #noread b
+{
+	top: 0;
+	background: url(../images/maillist.gif) no-repeat 5px top;
+}
+#dropmenu #maildir #dirlist #inbox b
+{
+	background: url(../images/maillist.gif) no-repeat 5px -20px;
+}
+#dropmenu #maildir #dirlist #write b
+{
+	background: url(../images/maillist.gif) no-repeat 5px -60px;
+}
+#dropmenu #maildir #dirlist #sended b
+{
+	background: url(../images/maillist.gif) no-repeat 5px -40px;
+}
+#dropmenu #maildir #dirlist #temp b
+{
+	background: url(../images/maillist.gif) no-repeat 5px -60px;
+}
+#dropmenu #maildir #dirlist #rcy b
+{
+	background: url(../images/maillist.gif) no-repeat 5px -80px;
+}
+#dropmenu #maildir #dirlist #deleted b
+{
+	background: url(../images/maillist.gif) no-repeat 5px -100px;
+}
+#dropmenu .h4
+{
+	font-size: 13px;
+	font-weight: normal;
+	margin: 5px 0 0 8px;
+	position: relative;
+}
+#dropmenu .h4 a:link, #dropmenu .h4 a:visited
+{
+	color: #000;
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	height: 18px;
+	text-indent: 12px;
+}
+#dropmenu .h4 a:hover
+{
+	text-decoration: underline;
+}
+#dropmenu .h4 .more
+{
+	font-size: 12px;
+	right: 8px !important;
+	right: /**/ 9px;
+}
+* + html #dropmenu .h4 .more
+{
+	right: 9px !important;
+}
+#dropmenu .h4 .more a:link, #dropmenu .h4 .more a:visited
+{
+	color: #002F76;
+	text-decoration: underline;
+	display: inline;
+	width: 28px;
+	padding: 0;
+	margin: 0;
+	text-indent: 0;
+}
+#dropmenu .h4 .more a:hover
+{
+	color: #c33;
+	text-decoration: none;
+	display: inline;
+	width: 28px;
+}
+#dropmenu .h4b1, #dropmenu .h4b2
+{
+	width: 8px;
+	height: 8px;
+	position: absolute;
+	top: 3px;
+	left: 0;
+	display: block;
+	background: url(../images/maillist.gif) no-repeat left -120px;
+}
+
+#dropmenu .h4b2
+{
+	background-position: left -180px;
+}
+
+#customdir, #address, #option
+{
+	padding: 5px 0;
+}
+#address, #customdir
+{
+	border-bottom: 1px solid #B4B4B4;
+}
+#dropmenu .leftcd
+{
+	margin-top: 6px;
+}
+#dropmenu .leftcd .c_d
+{
+	margin: 0 0 0 17px;
+	color: #505050;
+	position: relative;
+	height: 21px;
+	line-height: 21px;
+}
+#dropmenu .leftcd .c_d a:link, #dropmenu .leftcd .c_d a:visited
+{
+	color: #505050;
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	text-indent: 27px;
+	height: 21px;
+	line-height: 21px;
+}
+#dropmenu #customdirlist .c_d b
+{
+	width: 21px;
+	height: 16px;
+	position: absolute;
+	top: 2px;
+	left: 0;
+	display: block;
+	background: url(../images/maillist.gif) no-repeat 5px -142px;
+}
+#dropmenu #dblog .c_d b
+{
+	width: 21px;
+	height: 16px;
+	position: absolute;
+	top: 2px;
+	left: 0;
+	display: block;
+	background: url(../images/maillist.gif) no-repeat 5px -60px;
+}
+
+#dropmenu .leftcd .c_d strong
+{
+	font-weight: bold;
+	color: #f00;
+	margin-left: 5px;
+}
+#dropmenu #addresslist b
+{
+	width: 21px;
+	height: 16px;
+	position: absolute;
+	top: 2px;
+	left: 0;
+	display: block;
+	background: url(../images/maillist.gif) no-repeat 5px -228px;
+}
+#dropmenu #addresslist #contactsico b
+{
+	background-position: 5px -228px;
+}
+#dropmenu #addresslist #contactsgroupico b
+{
+	background-position: 5px -255px;
+}
+#dropmenu #addresslist #contactssearchico b
+{
+	background-position: 5px -278px;
+}
+#dropmenu #addresslist #contactsieico b
+{
+	background-position: 5px -310px;
+}
+#dropmenu #addresslist #contactssettingico b
+{
+	background-position: 5px -337px;
+}
+
+#dropmenu .service
+{
+	position: relative;
+	color: #B2B2B2;
+	padding: 26px 0 10px 0;
+	margin-left: 8px;
+}
+#dropmenu .service b
+{
+	width: 16px;
+	height: 16px;
+	position: absolute;
+	top: 26px;
+	left: 0;
+	display: block;
+	background: url(../images/maillist.gif) no-repeat left -160px;
+}
+#dropmenu #mailsmslist .c_d a:link, #dropmenu #mailsmslist .c_d a:visited, #dropmenu #mailsmslist .c_d a:hover, #dropmenu #optionlist .c_d a:link, #dropmenu #optionlist .c_d a:visited, #dropmenu #optionlist .c_d a:hover
+{
+	text-indent: 5px;
+}
+#dropmenu .service p
+{
+	text-indent: 22px;
+	color: #B2B2B2;
+}
+/*main*/
+#main
+{
+	margin: 0 8px 12px 6px;
+	position: relative;
+	border: 1px solid #B4B4B4;
+	background-color: #fff;
+	height: auto !important;
+	height: 398px;
+	min-height: 402px;
+}
+#main #hello
+{
+	border: 1px solid #fff;
+	border-bottom: 3px solid #ACCFFF;
+	background: #264FA0 url(../images/index_top_bg.jpg) repeat-y left top;
+	height: 66px;
+	position: relative;
+}
+#main #hello .uhello
+{
+	font-size: 18px;
+	top: 9px;
+	left: 11px;
+	position: absolute;
+	color: #fff;
+	font-family: Arial,ºÚÌå, Helvetica, sans-serif;
+}
+#main #hello .uhello em
+{
+	font-size: 18px;
+	font-family: ºÚÌå;
+	font-style: normal;
+}
+#main #hello .helloline
+{
+	height: 2px;
+	margin: 38px 12px 0 12px;
+}
+#main #hello .cap
+{
+	width: 102px;
+	position: absolute;
+	right: 12px;
+	top: 19px;
+	height: 13px;
+	overflow: hidden;
+	border: 0px solid #000;
+	padding: 0; /*background:url(../images/cap_bg.jpg) repeat-x left top;*/
+}
+
+#main #hello .cap .num
+{
+	position: absolute;
+	top: 0;
+	left: 34px;
+	font-size: 11px;
+}
+#main #hello .unreadmail
+{
+	position: absolute;
+	left: 12px;
+	top: 44px;
+	color: #B7DCFF;
+	width: 230px;
+}
+#main #hello .unreadmail b
+{
+	display: block;
+	float: left;
+	width: 16px;
+	height: 16px;
+	margin-right: 3px;
+	background: url(../images/unreadmail.gif) no-repeat left top;
+}
+#main #hello .unreadmail a:link, #main #hello .unreadmail a:visited
+{
+	color: #FEFFA4;
+	text-decoration: underline;
+	font-weight: bold;
+}
+#main #hello .unreadmail a:hover
+{
+	color: #FFFDF4;
+	text-decoration: underline;
+}
+#main #hello .weather
+{
+	position: absolute;
+	top: 46px;
+	right: 12px;
+	color: #ABC4E3;
+}
+#main #hello .color_swatch
+{
+	border-collapse: collapse;
+	border-spacing: 0;
+	position: absolute;
+	top: 47px;
+	right: 12px;
+	display: none;
+}
+#main .right
+{
+	position: relative;
+	padding: 0;
+	margin: 0;
+}
+#main #tag_msg
+{
+	margin: 12px 379px 0 12px;
+	position: relative;
+}
+#main #ads
+{
+	width: 360px;
+	position: absolute;
+	top: 0;
+	left: 394px !important;
+	left: 382px;
+	height: 300px;
+}
+#main #tag_msg #index_msg
+{
+	position: relative;
+	width: 370px;
+}
+#main #tag_msg #index_tips
+{
+	height: 98px;
+	width: 368px;
+	margin: 11px 0;
+	border: 1px solid #B8B8B8;
+	position: relative;
+	background-color: #FAFAFA;
+}
+#main #tag_msg #index_tips .tips
+{
+	margin: 0 0 0 98px;
+}
+#main #tag_msg #index_tips .tips h5
+{
+	font-size: 12px;
+	font-weight: normal;
+	margin: 11px 0;
+	color: #002F76;
+}
+#main #tag_msg #index_tips .tips p
+{
+	line-height: 20px;
+	margin: 0 8px 10px 0;
+	color: #666;
+}
+#main #tag_msg #index_tips .tips a:link, #main #tag_msg #index_tips .tips a:visited
+{
+	color: #002F76;
+	text-decoration: none;
+}
+#main #tag_msg #index_tips .tips a:hover
+{
+	color: #c33;
+	text-decoration: none;
+}
+#main #tag_msg #index_tips .tipsnv
+{
+	position: absolute;
+	width: 40px;
+	height: 23px;
+	top: 6px;
+	right: 6px;
+}
+#index_tips_bg
+{
+	position: relative;
+}
+#main #tag_msg #index_tips .tips_bg
+{
+	position: absolute;
+	width: 82px;
+	height: 82px;
+	background: url(../images/tips_bg.gif) no-repeat left top;
+	top: 6px;
+	left: 6px;
+	display: block;
+}
+/*tags*/
+/*tags*/
+
+/*tags*/
+.ulbg
+{
+	background: url(../images/dot.jpg) repeat-x left bottom;
+	height: 31px;
+	position: relative;
+	display: block;
+}
+ul.selWh
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 30px;
+	color: #909090;
+	width: 372px;
+}
+.selWh li
+{
+	list-style-type: none;
+	width: 89px;
+	height: 30px;
+	line-height: 28px;
+	text-align: center;
+	color: #A9450A;
+	float: left;
+	background: url(../images/tagon2.jpg) repeat-x left top;
+	margin-left: 1px;
+}
+.selWh li a
+{
+	display: block;
+	text-decoration: none;
+	color: #909090;
+}
+.selWh li.on
+{
+	border: 1px solid #B8B8B8;
+	border-bottom: 0;
+	width: 98px;
+	background-color: #fff;
+	background-image: none;
+}
+.selWh li.on a
+{
+	color: #002F76;
+}
+#index_msg .bdy
+{
+	border: 1px solid #B8B8B8;
+	border-top: 0;
+	height: 155px;
+}
+#index_msg .bdy p
+{
+	line-height: 1.5;
+	color: #9B9999;
+	margin-left: 10px;
+}
+#index_msg .bdy a:link, #index_msg .bdy a:visited
+{
+	color: #505050;
+	text-decoration: none;
+}
+#index_msg .bdy a:hover
+{
+	color: #c33;
+	text-decoration: none;
+}
+.bdy table
+{
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 346px;
+	margin: 0 0 0 10px;
+}
+#index_msg .bdy .bdymore
+{
+	text-align: right;
+	margin-right: 12px;
+	color: #002F76;
+}
+#index_msg .bdy .bdymore a:link, #index_msg .bdy .bdymore a:visited
+{
+	color: #002F76;
+	text-decoration: underline;
+}
+#index_msg .bdy .bdymore a:hover
+{
+	color: #c33;
+	text-decoration: underline;
+}
+.bdy table td.pics
+{
+	width: 120px;
+	padding: 0;
+}
+
+.bdy h6
+{
+	color: #666565;
+	font-weight: bold;
+	margin: 5px 0 10px 10px;
+	font-size: 12px;
+	padding: 0;
+}
+/*copyright*/
+#copyright
+{
+	height: 30px;
+	border-top: 1px solid #DEDEDE;
+	border-bottom: 1px solid #DEDEDE;
+	background-color: #f2f2f2;
+	width: auto;
+	margin: 0 12px 10px 12px;
+	text-align: center;
+	line-height: 30px;
+	font-size: 11px;
+	color: #848484;
+}
+.cc1 b, .cc2 b
+{
+	width: 3px;
+	height: 3px;
+	display: none;
+	position: absolute;
+	top: -1px;
+	right: -1px;
+	background: url(../images/maillist.gif) no-repeat -5px -197px;
+}
+.cc2 b
+{
+	display: none;
+	top: -1px;
+	left: -1px;
+	background: url(../images/maillist.gif) no-repeat -1px -197px;
+}
+.cn1, .cn2, .cn3, .cn4
+{
+	width: 3px;
+	height: 3px;
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	background: url(../images/conr.gif) no-repeat -4px top;
+}
+.cn1
+{
+	top: 0;
+	left: -1px !important;
+	left: 0;
+	background: url(../images/conr.gif) no-repeat -0px top;
+}
+@media all and (min-width: 0px)
+{
+	.cn1
+	{
+		left: 0 !important;
+	}
+}
+
+* + html .cn1
+{
+	left: 0 !important;
+}
+
+.cn3
+{
+	left: -1px !important;
+	left: 0;
+	top: 49px;
+	background: url(../images/conr.gif) no-repeat -8px top;
+}
+* + html .cn3
+{
+	left: 0 !important;
+}
+@media all and (min-width: 0px)
+{
+	.cn3
+	{
+		left: 0 !important;
+	}
+}
+.cn4
+{
+	right: 0;
+	top: 49px;
+	background: url(../images/conr.gif) no-repeat -12px top;
+}
+#dropmenu .cn1
+{
+	left: -1px;
+	top: -1px !important;
+	top: 0;
+}
+html > body #dropmenu .cn1
+{
+	left: -1px !important;
+	top: -1px !important;
+}
+* + html #dropmenu .cn1
+{
+	left: -1px !important;
+	top: -1px !important;
+}
+#dropmenu .cn2
+{
+	right: -1px !important;
+	right: 0px;
+	top: -1px !important;
+	top: 0;
+}
+/*read*/
+#main .buttonblock
+{
+	border: 1px solid #fff;
+	height: 27px;
+	position: relative;
+	width: auto;
+}
+.buttonblock .buttonhere select
+{
+	width: 90px;
+}
+#main #readheader
+{
+	background: url(../images/button_line_bg.jpg) repeat-x left top;
+}
+.pagenum
+{
+	position: absolute;
+	right: 10px;
+	top: 0;
+}
+.buttonhere
+{
+	position: absolute;
+	padding: 0 4px;
+	top: 3px;
+}
+.buttonhere a.btn_move
+{
+	background: url(../images/remove_bg.gif) no-repeat left top;
+	text-align: left;
+	width: 98px;
+	height: 21px;
+	text-indent: 10px;
+	color: #505050;
+	display: block;
+	line-height: 21px;
+	text-decoration: none;
+}
+.btn_h1
+{
+	height: 27px;
+	position: absolute;
+	top: 1px;
+	width: 370px;
+	left: 105px;
+}
+.buttonblock .btn_h1 a
+{
+	width: 56px;
+	height: 25px;
+	line-height: 25px;
+	display: block;
+	float: left;
+	text-align: left;
+	text-indent: 24px;
+	text-decoration: none;
+	margin: 0 3px;
+	color: #002F76;
+}
+.buttonblock .btn_h1 a.reaply
+{
+	background: url(../images/shouxin.gif) no-repeat left -200px;
+}
+.buttonblock .btn_h1 a.reaply:hover
+{
+	background: url(../images/shouxin.gif) no-repeat left -230px;
+}
+.buttonblock .btn_h1 a.forward
+{
+	background: url(../images/shouxin.gif) no-repeat left -262px;
+}
+.buttonblock .btn_h1 a.forward:hover
+{
+	background: url(../images/shouxin.gif) no-repeat left -290px;
+}
+.buttonblock .btn_h1 a.delete
+{
+	background: url(../images/shouxin.gif) no-repeat left -329px;
+}
+.buttonblock .btn_h1 a.delete:hover
+{
+	background: url(../images/shouxin.gif) no-repeat left -356px;
+}
+.buttonblock .btn_h1 a.print
+{
+	background: url(../images/shouxin.gif) no-repeat left -400px;
+}
+.buttonblock .btn_h1 a.print:hover
+{
+	background: url(../images/shouxin.gif) no-repeat left -430px;
+}
+.buttonblock .btn_h1 a.pdelete
+{
+	background: url(../images/shouxin.gif) no-repeat left -471px;
+	width: 79px;
+}
+.buttonblock .btn_h1 a.pdelete:hover
+{
+	background: url(../images/shouxin.gif) no-repeat left -497px;
+}
+
+.buttonblock .pagenum a
+{
+	width: 60px;
+	height: 23px;
+	line-height: 23px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	margin: 0 3px;
+	text-indent: 0;
+	color: #002F76;
+	float: right;
+}
+.buttonblock .pagenum a:hover
+{
+	text-decoration: underline;
+}
+.buttonblock .btn_h1_line1, .buttonblock .btn_h1_line2
+{
+	display: block;
+	width: 2px;
+	height: 27px;
+	position: absolute;
+	top: 0;
+	left: 105px !important;
+	left: 107px;
+	background: url(../images/btn_h1_slice_line.gif) no-repeat left top;
+}
+.buttonblock .btn_h1_line2
+{
+	left: 228px !important;
+	left: 231px;
+}
+.buttonblock .pagenum a.btn_maillist
+{
+}
+.buttonblock .pagenum a.btn_next
+{
+	background: url(../images/btn_next_bg.gif) no-repeat right center;
+}
+.buttonblock .pagenum a.btn_prv
+{
+	background: url(../images/btn_prv_bg.gif) no-repeat left center;
+}
+#main .mailhead_area
+{
+	border: 1px solid #fff;
+	border-top: 1px solid #D6D6D6;
+	border-bottom: 1px solid #D6D6D6;
+	padding: 14px 0 9px 0;
+	position: relative;
+	text-align: left;
+}
+#main .mailhead_area .open, #main .mailhead_area .close
+{
+	width: 8px;
+	height: 8px;
+	display: block;
+	position: relative;
+	bottom: 18px;
+	right: 8px;
+	float: right;
+	background: url(../images/maillist.gif) no-repeat left -120px;
+}
+#main .mailhead_area .close
+{
+	background: url(../images/maillist.gif) no-repeat left -180px;
+}
+#main .mailhead_area .open a, #main .mailhead_area .close a
+{
+	display: block;
+	width: 8px;
+	height: 8px;
+	text-decoration: none;
+}
+#main .mailhead_area p
+{
+	color: #505050;
+	margin-bottom: 11px;
+	text-indent: 9px;
+	word-wrap: break-word;
+	text-align: left;
+	word-break: break-all;
+}
+#main .mailhead_area table.mailhinfo_table
+{
+	border-collapse: collapse;
+	border-spacing: 0;
+	border: 0;
+	width: 100%;
+}
+#main .mailhead_area .mailhinfo_table td
+{
+	font-weight: normal;
+	line-height: 21px;
+	height: 24px;
+	text-align: left;
+	vertical-align: top;
+}
+#main .mailhead_area .mailhinfo_table em
+{
+	font-style: normal;
+	color: #9C9C9C;
+	word-wrap: break-word;
+	text-align: left;
+	word-break: break-all;
+	text-align: left;
+	display: block;
+}
+#main .mailhead_area .mailhinfo_table a
+{
+	color: #002F76;
+	text-decoration: none;
+}
+#main .mailhead_area .mailhinfo_table a:hover
+{
+	color: #c33;
+	text-decoration: underline;
+}
+#main .mailhead_area .mailhinfo_table a.download
+{
+	text-decoration: underline;
+}
+#main .mailhead_area .mailhinfo_table strong
+{
+	font-style: normal;
+	font-weight: bold;
+	color: #002F76;
+}
+#main .mailhead_area .mailhinfo_table td div
+{
+	text-align: left;
+	color: #505050;
+	padding: 0 0 0 8px;
+	display: block;
+	width: 48px;
+	border: 0;
+	height: 22px;
+	overflow-x: hidden;
+	white-space: nowrap;
+}
+* + html #main .mailhead_area .mailhinfo_table td div
+{
+	width: 55px;
+}
+#main .mailhead_area .mailhinfo_table .readmailth
+{
+	width: 48px;
+}
+* + html #main .mailhead_area .mailhinfo_table .readmailth
+{
+	width: 55px;
+}
+#main .mailhead_area img
+{
+	margin: 0;
+	padding: 0;
+}
+#main .mailhead_area p.atttoh
+{
+	color: #505050;
+	margin-bottom: 2px;
+	text-indent: 59px;
+}
+#main .mailhead_area .mailoption
+{
+	margin-left: 18px;
+	text-align: left;
+}
+#main .mailhead_area p em
+{
+	font-style: normal;
+	color: #9C9C9C;
+}
+#main .mailhead_area p strong
+{
+	font-style: normal;
+	font-weight: bold;
+	color: #002F76;
+}
+#main .mailhead_area p a
+{
+	color: #002F76;
+	text-decoration: none;
+}
+#main .mailhead_area p a:hover
+{
+	color: #c33;
+	text-decoration: underline;
+}
+#main .mailhead_area p a.download
+{
+	text-decoration: underline;
+}
+#main .mail_content
+{
+	padding: 15px 12px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #B4B4B4;
+	word-wrap: break-word;
+	word-break: break-all;
+	overflow-x: auto;
+	font-size: 16px;
+	height: auto !important;
+	height: 240px;
+	min-height: 240px;
+}
+#main .mail_content p
+{
+}
+#main .mail_content .manmark
+{
+	color: #929292;
+	text-align: left;
+	padding-top: 22px;
+}
+#main .mail_content .manmark p
+{
+	text-align: left;
+}
+/*write*/
+#main table.write_table
+{
+	width: 100%;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+#main .write_table td
+{
+	vertical-align: top;
+}
+.writearea
+{
+	position: relative;
+	background-color: #FAFAFA;
+	display: block;
+	top: 0px;
+	left: 0px;
+	width: 565px;
+}
+.writearea .send
+{
+	margin: 0 0 0 67px;
+}
+.writearea table.send
+{
+	margin: 0 0 2px 67px;
+}
+.writearea .writebottomdiv table.send
+{
+	margin: 0 0 2px 67px;
+	padding: 0;
+}
+.writearea td.writebtnline
+{
+	height: 28px;
+	vertical-align: bottom;
+}
+#writelettle td
+{
+	height: 24px;
+}
+#writelettle a.normal:link, #writelettle a.normal:visited
+{
+	color: #0000B3;
+	text-decoration: none;
+}
+.writearea .send a.btn_send:link, .writearea .send a.btn_send:visited, .writearea .send a.btn_send:hover
+{
+	display: block;
+	width: 57px;
+	height: 23px;
+	text-indent: 26px;
+	text-decoration: none;
+	color: #002F76;
+	margin-top: 3px;
+	line-height: 23px;
+	background: url(../images/btn_write_bg2.jpg) no-repeat left top;
+}
+.writearea .send a.btn_send:hover
+{
+	background: url(../images/btn_write_bg2.jpg) no-repeat left -75px;
+	color: #002F76;
+}
+.writearea .send a.btn_save:link, .writearea .send a.btn_save:visited, .writearea .send a.btn_save:hover
+{
+	display: block;
+	width: 109px;
+	height: 23px;
+	text-indent: 26px;
+	text-decoration: none;
+	color: #002F76;
+	line-height: 23px;
+	background: url(../images/btn_write_bg2.jpg) no-repeat left -37px;
+	margin-left: 5px;
+	margin-top: 3px;
+}
+.writearea .send a.btn_save:hover
+{
+	background: url(../images/btn_write_bg2.jpg) no-repeat left -114px;
+}
+#writelettle a:link, #writelettle a:visited
+{
+	color: #002F76;
+	text-decoration: underline;
+	padding: 0 10px 0 0;
+}
+#writelettle a.normal:hover
+{
+	color: #f00;
+	text-decoration: underline;
+}
+#writelettle
+{
+	margin-left: 0px;
+	width: 100%;
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+#writelettle span
+{
+	color: #75AC80;
+	margin-left: 22px;
+}
+#writelettle .inp_write
+{
+	height: 18px;
+	padding: 1px 0 0 0;
+	border: 1px solid #B8B8B8;
+	width: 100%;
+	font-family: Arial,ºÚÌå, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+#writelettle .inp_write2
+{
+	height: 18px;
+	padding: 1px 0 0 0;
+	border: 1px solid #7EABE6;
+	width: 80%;
+	font-size: 12px;
+	background-color: #EFF6FF;
+	font-family: Arial,ºÚÌå, Helvetica, sans-serif;
+}
+
+
+#writelettle .std_inp
+{
+	margin-right: 18px;
+}
+#writelettle .add_list
+{
+	border: 1px solid #7fabe7;
+	background-color: #eff6ff;
+	margin-top: 1px;
+}
+#writelettle .add_list li
+{
+	overflow: hidden;
+	white-space: nowrap;
+}
+#writelettle .add_list .selected
+{
+	background-color: #d7e6f9;
+}
+#writelettle .att_file_line
+{
+	margin-top: 1px;
+}
+#writelettle .att_file_input
+{
+	width: auto !important;
+	width: 60%;
+}
+* + html #writelettle .att_file_input
+{
+	width: auto !important;
+}
+#writelettle .add_list li
+{
+	list-style-type: none;
+	line-height: 1.5;
+}
+#writelettle table.add_attach
+{
+	width: 100%;
+	border-collapse: collapse;
+	border-spacing: 0;
+	vertical-align: top;
+	border: 0;
+}
+#writelettle table.add_attach td
+{
+	padding: 0;
+	margin: 0;
+}
+#writelettle table.add_attach td.add_attach_broswer
+{
+	width: 147px;
+}
+#writelettle table.add_attach .btn_broswer
+{
+	width: 51px;
+	height: 21px;
+	border: 1px solid #B8B8B8;
+	text-align: center;
+	cursor: pointer !important;
+	cursor: hand;
+	color: #002F76;
+	padding: 1px 0 0 0;
+	margin: 0 0 0 5px !important;
+	margin: 1px 0 0 5px;
+}
+.writearea #writelettle a.delete_attach
+{
+	background: url(../images/btn_inboxlist_bg2.jpg) no-repeat left -8px;
+	width: 90px;
+	color: #002F76;
+	padding-left: 18px;
+	margin-left: 7px;
+}
+.writearea #writelettle a.add_attach
+{
+	background: url(../images/attach.jpg) no-repeat left center;
+	width: 90px;
+	color: #002F76;
+	padding-left: 22px;
+}
+.writearea #writelettle #compose_att_td div
+{
+	margin: 1px 0;
+}
+#writelettle .textcontant
+{
+	padding: 1px 0 0 0;
+	border: 1px solid #B8B8B8;
+	width: 100%;
+}
+#writelettle th
+{
+	text-align: right;
+	font-weight: normal;
+	padding-right: 2px;
+	color: #002F76;
+}
+.maillevel select
+{
+	color: #525252;
+}
+.write_line
+{
+	border-top: 1px solid #B8B8B8;
+	height: 1px;
+	width: 100%;
+}
+.writebottomdiv
+{
+	position: relative;
+	background: #fff;
+	color: #515151;
+}
+.writebottomdiv .maillevel
+{
+	position: absolute;
+	width: 200px;
+	text-align: right;
+	display: block;
+	right: 19px !important;
+	right: 21px;
+	top: 0;
+}
+table.write_table td.write_table_addresspop
+{
+	border-left: 1px solid #B8B8B8;
+	padding: 6px;
+	width: 165px;
+}
+table.write_table td.write_table_addresspop .addresslistblock
+{
+	width: 165px;
+	height: 450px;
+	overflow: auto;
+	overflow-x: hidden;
+	margin: 0;
+	border: 1px solid #B8B8B8;
+	background-color: #fff;
+}
+table.write_table td.write_table_addresspop table
+{
+	width: 100%;
+}
+.write_table .write_table_addresspop .addlist_h5
+{
+	height: 20px;
+	display: block;
+	text-align: left;
+	line-height: 20px;
+	margin: 3px 0 2px 0;
+	font-weight: bold;
+}
+.write_table .write_table_addresspop .adclass1, .write_table .write_table_addresspop .adclass2
+{
+	background: url(../images/maillist.gif) no-repeat left -118px;
+	height: 14px;
+	display: block;
+	padding-left: 15px;
+	text-align: left;
+	line-height: 14px;
+	margin: 8px 0 4px 0;
+	color: #4B4B4B;
+	width: 140px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+.write_table .write_table_addresspop .adclass2
+{
+	background: url(../images/maillist.gif) no-repeat left -178px;
+}
+.write_table .write_table_addresspop a
+{
+	display: block;
+	color: #4C4C4C;
+	text-decoration: none;
+	width: 100%;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+.write_table .write_table_addresspop .adclasschild li
+{
+	list-style-type: none;
+	width: 159px;
+	overflow: hidden;
+	line-height: 14px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+.write_table .write_table_addresspop .adclasschild li a:link, .write_table .write_table_addresspop .adclasschild li a:visited
+{
+	color: #838383;
+	text-indent: 30px;
+	display: block;
+	height: 22px;
+	line-height: 22px;
+}
+.write_table .write_table_addresspop .adclasschild li a:hover
+{
+	color: read;
+	text-indent: 30px;
+	background-color: #EFF6FF;
+}
+/*sendok*/
+.write_table td.write_table_sendok_right
+{
+	border-left: 1px solid #B8B8B8;
+	width: 140px;
+	overflow: scroll;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+.write_table td.write_table_sendok_right .ad_sendok
+{
+	width: 120px;
+	margin: 10px 0 10px 10px;
+}
+.write_table .sendok_info
+{
+	margin: 40px 18px 0 18px;
+	border: 1px solid #B3B3B3;
+	background: #f7f7f7 url(../images/sina_pie.jpg) no-repeat 92px 17px;
+	padding-bottom: 11px;
+	height: auto !important;
+	height: 150px;
+	min-height: 150px;
+}
+.write_table .sendok_info .info
+{
+	margin: 0 0 0 184px;
+	padding: 0;
+}
+.write_table .sendok_ad
+{
+	margin: 60px 18px 0 18px;
+	text-align: center;
+	overflow: hidden;
+	border-top: 1px solid #d5d5d5;
+}
+.write_table .sendok_ad p
+{
+	line-height: 30px;
+	height: 30px;
+	text-align: center;
+}
+.write_table .sendok_ad a:link, .write_table .sendok_ad a:visited
+{
+	color: #848484;
+	text-decoration: underline;
+}
+.write_table .sendok_ad a:hover
+{
+	color: #c33;
+	text-decoration: underline;
+}
+.write_table .sendok_info .info .h2
+{
+	font-size: 20px;
+	color: #010101;
+	text-align: left;
+	height: 58px;
+	line-height: 58px;
+	background: url(../images/sendok.png) repeat-x left bottom;
+	margin-bottom: 11px;
+}
+.write_table .sendok_info table.sendto_list
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	margin: 0 0 0 184px;
+	padding: 0;
+}
+
+.write_table .sendok_info .sendto_list th
+{
+	width: 51px;
+	text-align: left;
+	font-weight: normal;
+	color: #2c2c2c;
+	vertical-align: top;
+	line-height: 21px;
+}
+.write_table .sendok_info .sendto_list td
+{
+	text-align: left;
+	vertical-align: top;
+	color: #848484;
+	line-height: 21px;
+}
+.write_table .error_info
+{
+	margin: 40px 18px 0 18px;
+	border: 1px solid #B3B3B3;
+	background: #f7f7f7 url(../images/sina_pie_error.jpg) no-repeat 92px 17px;
+	padding-bottom: 11px;
+	height: auto !important;
+	height: 130px;
+	min-height: 130px;
+}
+.write_table .error_info p.senderror
+{
+	margin: 0 0 0 184px;
+	color: #848484;
+	line-height: 1.5;
+}
+.write_table .error_info .info
+{
+	margin: 0 0 0 184px;
+	padding: 0;
+}
+.write_table .error_info .info .h2
+{
+	font-size: 20px;
+	color: #010101;
+	text-align: left;
+	height: 58px;
+	line-height: 58px;
+	background: url(../images/sendok.png) repeat-x left bottom;
+	margin-bottom: 11px;
+}
+.sendok_continue
+{
+	margin: 11px 0 0 202px;
+	text-align: left;
+}
+
+.sendok_continue a:link, .sendok_continue a:visited
+{
+	color: #002F76;
+	text-decoration: underline;
+	padding: 0 3px;
+}
+.sendok_continue a:hover
+{
+	color: #c33;
+}
+/*saveok*/
+.write_table .saveok_info
+{
+	margin: 40px 18px 0 18px;
+	border: 1px solid #B3B3B3;
+	height: 60px;
+	background: #f7f7f7 url(../images/sina_pie_l.gif) no-repeat 169px center;
+}
+.write_table .saveok_info .h2
+{
+	margin: 0 0 0 209px;
+	font-size: 20px;
+	line-height: 60px;
+}
+/**/
+.error_page
+{
+	border: 1px solid #B3B3B3;
+	border-left: 0;
+	border-right: 0;
+	background-color: #f7f7f7;
+	margin: 80px 10px 30px 10px;
+	text-align: center;
+}
+.error_page .error_info_page
+{
+	margin: 0 20px 0 0;
+	padding: 20px 0;
+	background: url(../images/sina_pie_error.gif) no-repeat left 5px;
+}
+.error_page .error_info_page .error_info_c
+{
+	font-size: 12px;
+	line-height: 1.5;
+	margin-left: 40px;
+}
+/*jumpmenu*/
+#main .jumpmenu
+{
+	border: 1px solid #7fabe7;
+	background-color: #eff6ff;
+	margin-top: 1px;
+	width: 80px;
+	position: absolute;
+	text-align: center;
+	z-index: 10000;
+}
+#main #btn_menu1
+{
+	top: 30px;
+	left: 110px !important;
+	left: 112px;
+}
+#main #btn_menu2
+{
+	top: 30px;
+	left: 168px !important;
+	left: 170px;
+}
+#main #btn_menu3
+{
+	left: 108px !important;
+	left: 112px;
+	top: -43px;
+}
+#main #btn_menu4
+{
+	left: 164px !important;
+	left: 168px;
+	top: -43px;
+}
+
+#main .jumpmenu ul
+{
+	margin: 0;
+	padding: 0;
+	z-index: 10000;
+}
+#main .jumpmenu li
+{
+	list-style-type: none;
+	height: 20px;
+	padding: 0;
+	line-height: 20px;
+	margin: 0;
+	display: inline;
+	z-index: 10000;
+}
+#main .jumpmenu a:link, #main .jumpmenu a:visited
+{
+	display: block;
+	color: #00224A;
+	padding: 0;
+	text-decoration: none;
+}
+#main .jumpmenu a:hover
+{
+	color: #00224A;
+	background-color: #D5E6F6;
+}
+.btnt2, .btnt2_2, .btnt4, .btnt4_2, .btn8, .btn8_2, .btn6, .btn6_2
+{
+	background: url(../images/btn_inboxlist_bg2.jpg) no-repeat left -1121px;
+	height: 21px;
+	width: 44px;
+	text-align: center;
+	padding: 2px 0 0 0;
+	cursor: pointer !important;
+	cursor: hand;
+	border: 0;
+}
+.btnt2_2
+{
+	background-position: left -929px;
+}
+.btnt4
+{
+	background-position: left -1169px;
+	width: 66px;
+}
+.btnt4_2
+{
+	width: 66px;
+	background-position: left -977px;
+}
+.btn6
+{
+	background-position: left -1169px;
+	width: 66px;
+}
+.btn6_2
+{
+	width: 66px;
+	background-position: left -977px;
+}
+.btn8, .btn8_2
+{
+	background-position: left -1265px;
+	width: 116px;
+}
+.btn8_2
+{
+	background-position: left -1073px;
+}
+.optionsrttingok
+{
+	width: 307px;
+	border: 1px solid #A0A0A0;
+	border-top: 1px solid #9F9F9F;
+	background-color: #fff;
+	margin: 100px auto;
+}
+.optionsrttingok .optionok
+{
+	border: 1px solid #fff;
+	padding-bottom: 19px;
+	background: #F1F1F1 url(../images/ico_option.gif) no-repeat 100px 63px;
+}
+.optionsrttingok .optionok .h6
+{
+	height: 24px;
+	background: #F1F1F1 url(../images/okh6.jpg) repeat-y left top;
+}
+.optionsrttingok .optionok .oktext
+{
+	padding: 41px 10px 20px 120px;
+}
+
+/*editorspan*/
+#main #writelettle .editortext
+{
+}
+#main #writelettle .editortext a:link, #main #writelettle .editortext a:visited
+{
+	text-decoration: none;
+	color: #002F76;
+}
+#main #writelettle .editortext a:hover
+{
+	text-decoration: underline;
+	color: #c33;
+}
+
+#main .ggpop
+{
+	margin: 13px 0 0 9px;
+	text-align: center;
+	width: 750px;
+	overflow: hidden;
+}
+.ggpop
+{
+	margin: 0 0 13px 8px;
+	text-align: center;
+	width: 750px;
+	overflow: hidden;
+}
+
+.error1all
+{
+	width: 100%;
+	text-align: center;
+}
+.error2
+{
+	width: 480px;
+	margin: 100px auto 0 auto;
+	border: 10px solid #F4F5ED;
+	text-align: center;
+}
+.error3
+{
+	border: 1px solid #B4B4B2;
+	background: #fff url(../images/pieerror.gif) no-repeat left top;
+	height: auto !important;
+	height: 215px;
+	height: /**/ 185px;
+	min-height: 185px;
+	padding-bottom: 35px;
+}
+.error3 h6
+{
+	font-size: 14px;
+	text-align: center;
+	line-height: 65px;
+	height: 65px;
+	font-weight: bold;
+	margin: 0;
+	color: #656565;
+}
+.error3 .errorinfox
+{
+	margin: 34px 25px 0 183px;
+	text-align: center;
+}
+.error3 .errorinfox p
+{
+	text-align: center;
+	line-height: 1.5;
+	margin-bottom: 36px;
+}
+
+.option_msg
+{
+	margin: 7px;
+	border: 1px solid #ff6e00;
+	height: 36px;
+	line-height: 36px;
+	background: #F5FFCA url(../images/ico_option.gif) no-repeat 11px center;
+}
+
+.rsslist
+{
+	line-height: 20px;
+	margin: 3px 0 3px 10px;
+	list-style-type: none;
+}
+
+.search_input
+{
+	height: 18px;
+	padding: 1px 0 0 0;
+	border: 1px solid #7EABE6;
+	width: 150px;
+	font-size: 12px;
+	background-color: #EFF6FF;
+	font-family: Arial,ºÚÌå, Helvetica, sans-serif;
+}
+
+.tagbg a.searchbtn:link, .tagbg a.searchbtn:visited
+{
+	color: Yellow;
+	text-decoration: none;
+}
+.tagbg a.searchbtn:hover
+{
+	color: Red;
+}
+
+.edit_link
+{
+	margin-left: 20px;
+}
+
+/*read blog*/
+#main .title_area
+{
+	border: 1px solid #fff;
+	border-top: 1px solid #D6D6D6;
+	border-bottom: 1px solid #D6D6D6;
+	padding: 10px 0 9px 0;
+	position: relative;
+	text-align: left;
+	height: 40px;
+}
+#main .title
+{
+	text-align: center;
+	font-size: 24px;
+}
+.author
+{
+	margin: 10px 10px 0 0;
+	margin-right: 30px;
+	float: right;
+	vertical-align: middle;
+}
+
+.author .img
+{
+	vertical-align: middle;
+}
+
+#main .title_area .whosee
+{
+	margin:27px 15px 0 5px;
+	
+	background-color:#fcf8f8;
+}
+
+
+.blogblock
+{
+	border-top: 1px solid #c2c2c2;
+	border-bottom: 1px solid #c2c2c2;
+	background-color: #fff;
+	border-collapse: collapse;
+	
+}
+.forum_content
+{
+	
+	margin:5px 25px 5px 20px;
+}
+.forum_content .content
+{
+	margin-bottom:5px;
+}
+.forum_table
+{
+		
+	border:1px solid  #c2c2c2;
+	
+	width:760px;
+	margin-bottom:5px;
+	background-color:#fbf8f8;
+}
+.forum_table .td_1_1
+{   
+	
+	border-right:1px solid #c2c2c2;
+	width:90px;
+	height:80px;
+	text-align:center;
+	
+}
+.forum_table .td_1_2
+{
+	
+	border-bottom: 1px solid #c2c2c2;
+	
+}
+
+.forum_table .td_3_1
+{
+	/*Top-Del*/
+	border-top: 1px solid #c2c2c2;
+	text-align:right;
+}
+.forum_table .td_c
+{
+	/*content*/
+	height:50px;
+}
+
+.forum_table .photo
+{
+	width:50px;
+	height:50px;
+	border: 1px solid #c2c2c2;
+}
+
+.whoseeblock
+{
+	text-align:center;
+}
+
+.whoseeblock .whosee_table
+{
+	width:90%;
+	
+	text-align:left;
+}
+
+.whoseelist .photo
+{
+	width:70px;
+	height:70px;
+	border: 1px solid #c2c2c2;
+	cursor:hand;
+	margin-right:7px;
+}
+
+.whoseelist
+{
+	text-align:center;
+}
+
+
+#dropmenu #userarchive .c_d b
+{	
+	
+	width: 21px;
+	height: 16px;
+	position: absolute;
+	top: 2px;
+	left: 0;
+	display: block;
+	background: url(../images/maillist.gif) no-repeat 5px -20px;
+}
+#dropmenu #archive .c_d b
+{	
+	
+	width: 21px;
+	height: 16px;
+	position: absolute;
+	top: 2px;
+	left: 0;
+	display: block;
+	background: url(../images/maillist.gif) no-repeat 5px -40px;
+}
+
+.arc_file_del 
+{
+ text-decoration:none;
+ color:Red;
+  font-weight:bold;
+}
+
+.arc_file
+{
+	border-bottom: green double;
+	color: #3333ff;
+}
+
+/*Modal Popup*/
+.modalBackground {
+	background-color:Gray;
+	filter:alpha(opacity=70);
+	opacity:0.7;
+}
+
+.modalPopup {
+	background-color:#ffffdd;
+	border-width:3px;
+	border-style:solid;
+	border-color:Gray;
+	padding:3px;
+	width:450px;
+}
+
+/*phone call sms icon*/
+.phone_call
+{
+	background: url(../images/g1.jpg) no-repeat;   
+
+}
+
+.sms_send
+{
+	background: url(../images/sms.jpg) no-repeat;   
+
+}
+
+/*TAB²Ëµ¥ÇÐ»»*/
+.TabTitleBox
+{
+	padding-left:10px;
+	background:url(../images/TabTitleBox_bg.jpg) repeat-x bottom;
+	height:36px;
+}
+.TabTitleOn {
+	float: left;
+	color: White;
+	font-size: 14px;
+	line-height:35px;
+	font-weight: bold;
+	text-align:center;
+	margin-right:2px;
+	width:80px;
+	height:35px;
+    cursor:hand;
+	text-align:center;
+	background:url(../images/menu_bj_02.gif) no-repeat;
+}
+.TabTitle {
+	float: left;
+	color: #000;
+	font-size: 14px;
+	line-height:35px;
+	margin-right:2px;
+	width:80px;
+	height:35px;
+    cursor:hand;
+	text-align:center;
+	background:url(../images/menu_bj_01.gif) no-repeat;
+}
+
+.TabTitle a:link, .TabTitle a:visited,.TabTitle a:hover 
+{	
+	color: #666666;
+	text-decoration: none;
+}
+.TabTitleOn a:link, .TabTitleOn a:visited,.TabTitleOn a:hover 
+{	
+	color: White;
+	text-decoration: none;
+}
+.TabBlock{
+display:block;
+}
+.TabNone{
+display:none;
+}

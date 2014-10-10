@@ -1,0 +1,71 @@
+﻿.ValidateOK
+{
+	border: #aaffaa 1px solid;
+	margin: 0px 5px 0px 0px;
+	padding-right: 5px;
+	padding-left: 25px;
+	padding-top: 2px;
+	padding-bottom: 1px;
+	background: url(../images/accept.gif) #ddffdd no-repeat 5px 1px;
+	color: #000;
+	display:inline-table;
+	line-height:22px;
+}
+.WarningMsg
+{
+	border: #00a8ff 1px solid;
+	margin: 0px 5px 0px 0px;
+	padding-right: 5px;
+	padding-left: 25px;
+	padding-top: 2px;
+	padding-bottom: 1px;
+	background: url(../images/standard_msg_warning.gif) #e2f5ff no-repeat 5px 1px;
+	color: #000;
+	display: inline-table;
+	line-height:22px;
+}
+.ErrorMsg
+{
+	border: #f60 1px solid;
+	margin: 0px 0px 0px 0px;
+	padding-right: 5px;
+	padding-left: 25px;
+	padding-top: 2px;
+	padding-bottom: 1px;
+	background: url(../images/standard_msg_error.gif) #fff2e9 no-repeat 5px 1px;
+	color: #000;
+	display: inline-table;
+	line-height:22px;
+}
+
+.OkMsg
+{
+	padding-right: 6px;
+	padding-left: 26px;
+	padding-top: 3px;
+	padding-bottom: 2px;
+	line-height: 15px;
+	background: url(../images/ico_ok.jpg) no-repeat 5px 1px;
+
+}
+.error
+{
+	padding-right: 6px;
+	padding-left: 26px;
+	padding-top: 3px;
+	padding-bottom: 2px;
+	line-height: 15px;
+	background: url(../images/errorIcon.gif) no-repeat 5px center;
+	color: red;
+	display: none;
+}
+
+.bluebuttoncss {
+  background-image:url('../Images/btn1.gif');
+   height:25px;border:0px;
+}
+
+.shadow {
+    
+    background:#D8E8FF;
+    

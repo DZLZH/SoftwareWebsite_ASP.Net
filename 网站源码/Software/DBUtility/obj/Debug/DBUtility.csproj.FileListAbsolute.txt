@@ -1,0 +1,266 @@
+E:\brwlcms\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+E:\brwlcms\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+E:\brwlcms\DBUtility\bin\Debug\MySql.Data.dll
+E:\brwlcms\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\brwlcms\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+E:\brwlcms\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+E:\pubcms\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+E:\pubcms\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+E:\pubcms\DBUtility\bin\Debug\MySql.Data.dll
+E:\pubcms\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\pubcms\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+E:\pubcms\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+E:\pubcms2.0\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+E:\pubcms2.0\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+E:\pubcms2.0\DBUtility\bin\Debug\MySql.Data.dll
+E:\pubcms2.0\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\pubcms2.0\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+E:\pubcms2.0\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+E:\123456\wxl\wxl修改的网站\pubcms2.0\pubcms2.0\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+E:\123456\wxl\wxl修改的网站\pubcms2.0\pubcms2.0\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+E:\123456\wxl\wxl修改的网站\pubcms2.0\pubcms2.0\DBUtility\bin\Debug\MySql.Data.dll
+E:\123456\wxl\wxl修改的网站\pubcms2.0\pubcms2.0\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\123456\wxl\wxl修改的网站\pubcms2.0\pubcms2.0\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+E:\123456\wxl\wxl修改的网站\pubcms2.0\pubcms2.0\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+D:\My Documents\桌面\pubcms2.0\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+D:\My Documents\桌面\pubcms2.0\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+D:\My Documents\桌面\pubcms2.0\DBUtility\bin\Debug\MySql.Data.dll
+D:\My Documents\桌面\pubcms2.0\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\桌面\pubcms2.0\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+D:\My Documents\桌面\pubcms2.0\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+E:\123456\wxl\wxl修改的网站\pubcms2.0\pubcms2.5\pubcms2.0\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+E:\123456\wxl\wxl修改的网站\pubcms2.0\pubcms2.5\pubcms2.0\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+E:\123456\wxl\wxl修改的网站\pubcms2.0\pubcms2.5\pubcms2.0\DBUtility\bin\Debug\MySql.Data.dll
+E:\123456\wxl\wxl修改的网站\pubcms2.0\pubcms2.5\pubcms2.0\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\123456\wxl\wxl修改的网站\pubcms2.0\pubcms2.5\pubcms2.0\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+E:\123456\wxl\wxl修改的网站\pubcms2.0\pubcms2.5\pubcms2.0\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+E:\MyProject\SVN项目\netcms1.0\pubcms2.0\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+E:\MyProject\SVN项目\netcms1.0\pubcms2.0\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+E:\MyProject\SVN项目\netcms1.0\pubcms2.0\DBUtility\bin\Debug\MySql.Data.dll
+E:\MyProject\SVN项目\netcms1.0\pubcms2.0\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\MyProject\SVN项目\netcms1.0\pubcms2.0\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+E:\MyProject\SVN项目\netcms1.0\pubcms2.0\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+E:\MyProject\SVN\pubcms4.0\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+E:\MyProject\SVN\pubcms4.0\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+E:\MyProject\SVN\pubcms4.0\DBUtility\bin\Debug\MySql.Data.dll
+E:\MyProject\SVN\pubcms4.0\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\MyProject\SVN\pubcms4.0\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+E:\MyProject\SVN\pubcms4.0\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+E:\MyProject\最新Cms\pubcms\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+E:\MyProject\最新Cms\pubcms\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+E:\MyProject\最新Cms\pubcms\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\MyProject\最新Cms\pubcms\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+E:\MyProject\最新Cms\pubcms\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+E:\AllProject\最新Cms\pubcms\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+E:\AllProject\最新Cms\pubcms\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+E:\AllProject\最新Cms\pubcms\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\AllProject\最新Cms\pubcms\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+E:\AllProject\最新Cms\pubcms\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+E:\AllProject\最新Cms\pubcms_new\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+E:\AllProject\最新Cms\pubcms_new\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+E:\AllProject\最新Cms\pubcms_new\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\AllProject\最新Cms\pubcms_new\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+E:\AllProject\最新Cms\pubcms_new\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+E:\AllProject\SVN项目\CMS\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+E:\AllProject\SVN项目\CMS\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+E:\AllProject\SVN项目\CMS\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\AllProject\SVN项目\CMS\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+E:\AllProject\SVN项目\CMS\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+D:\W-X-L\program\ComputerWeb\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+D:\W-X-L\program\ComputerWeb\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+D:\W-X-L\program\ComputerWeb\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\W-X-L\program\ComputerWeb\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+D:\W-X-L\program\ComputerWeb\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+D:\W-X-L\program\SqlComputerWeb\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+D:\W-X-L\program\SqlComputerWeb\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+D:\W-X-L\program\SqlComputerWeb\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\W-X-L\program\SqlComputerWeb\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+D:\W-X-L\program\SqlComputerWeb\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+D:\W-X-L\program\复件 SqlComputerWeb\复件 SqlComputerWeb\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+D:\W-X-L\program\复件 SqlComputerWeb\复件 SqlComputerWeb\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+D:\W-X-L\program\复件 SqlComputerWeb\复件 SqlComputerWeb\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\W-X-L\program\复件 SqlComputerWeb\复件 SqlComputerWeb\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+D:\W-X-L\program\复件 SqlComputerWeb\复件 SqlComputerWeb\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\wangzhan1025\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\wangzhan1025\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\wangzhan1025\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\wangzhan1025\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\wangzhan1025\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\wangzhan1025\DBUtility\bin\Debug\wangzhan1025.Model.dll
+C:\wangzhan1025\DBUtility\bin\Debug\wangzhan1025.Model.pdb
+C:\Users\wxl\Desktop\wangzhan1025\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Users\wxl\Desktop\wangzhan1025\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Users\wxl\Desktop\wangzhan1025\DBUtility\bin\Debug\wangzhan1025.Model.dll
+C:\Users\wxl\Desktop\wangzhan1025\DBUtility\bin\Debug\wangzhan1025.Model.pdb
+C:\Users\wxl\Desktop\wangzhan1025\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wxl\Desktop\wangzhan1025\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Users\wxl\Desktop\wangzhan1025\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+E:\10.30\wangzhan1025\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+E:\10.30\wangzhan1025\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+E:\10.30\wangzhan1025\DBUtility\bin\Debug\wangzhan1025.Model.dll
+E:\10.30\wangzhan1025\DBUtility\bin\Debug\wangzhan1025.Model.pdb
+E:\10.30\wangzhan1025\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\10.30\wangzhan1025\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+E:\10.30\wangzhan1025\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\11.5\wangzhan1025\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\11.5\wangzhan1025\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\11.5\wangzhan1025\DBUtility\bin\Debug\wangzhan1025.Model.dll
+C:\11.5\wangzhan1025\DBUtility\bin\Debug\wangzhan1025.Model.pdb
+C:\11.5\wangzhan1025\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\11.5\wangzhan1025\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\11.5\wangzhan1025\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+E:\11.5\wangzhan1025\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+E:\11.5\wangzhan1025\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+E:\11.5\wangzhan1025\DBUtility\bin\Debug\wangzhan1025.Model.dll
+E:\11.5\wangzhan1025\DBUtility\bin\Debug\wangzhan1025.Model.pdb
+E:\11.5\wangzhan1025\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\11.5\wangzhan1025\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+E:\11.5\wangzhan1025\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+F:\移动网站最终稿\复件 wangzhan1025\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+F:\移动网站最终稿\复件 wangzhan1025\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+F:\移动网站最终稿\复件 wangzhan1025\DBUtility\bin\Debug\NewsSolution.Model.dll
+F:\移动网站最终稿\复件 wangzhan1025\DBUtility\bin\Debug\NewsSolution.Model.pdb
+F:\移动网站最终稿\复件 wangzhan1025\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+F:\移动网站最终稿\复件 wangzhan1025\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+F:\移动网站最终稿\复件 wangzhan1025\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+F:\移动网站最终稿\上课资料\newsmanager\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+F:\移动网站最终稿\上课资料\newsmanager\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+F:\移动网站最终稿\上课资料\newsmanager\DBUtility\bin\Debug\NewsSolution.Model.dll
+F:\移动网站最终稿\上课资料\newsmanager\DBUtility\bin\Debug\NewsSolution.Model.pdb
+F:\移动网站最终稿\上课资料\newsmanager\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+F:\移动网站最终稿\上课资料\newsmanager\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+F:\移动网站最终稿\上课资料\newsmanager\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\DBUtility\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\DBUtility\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\sancengjiagou\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution\DBUtility\bin\Debug\model.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution\DBUtility\bin\Debug\model.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution1\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution2\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution3\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution4\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution5\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution6\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution7\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+E:\java\NewsSolution2\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+E:\java\NewsSolution2\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+E:\java\NewsSolution2\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\java\NewsSolution2\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+E:\java\NewsSolution2\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution10\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution12\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+D:\Documents\Desktop\NewsSolution2\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+D:\Documents\Desktop\NewsSolution2\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+D:\Documents\Desktop\NewsSolution2\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Desktop\NewsSolution2\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+D:\Documents\Desktop\NewsSolution2\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+F:\java\NewsSolution14\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+F:\java\NewsSolution14\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+F:\java\NewsSolution14\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+F:\java\NewsSolution14\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+F:\java\NewsSolution14\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution14\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution16\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution17\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution21\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\NewsSolution22\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+E:\NewsSolution39 - 副本\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+E:\NewsSolution39 - 副本\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+E:\NewsSolution39 - 副本\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\NewsSolution39 - 副本\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+E:\NewsSolution39 - 副本\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+H:\临时\E科技工作室\NewsSolution39\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+H:\临时\E科技工作室\NewsSolution39\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+H:\临时\E科技工作室\NewsSolution39\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+H:\临时\E科技工作室\NewsSolution39\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+H:\临时\E科技工作室\NewsSolution39\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+E:\E科技工作室(新)\NewsSolution39\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+E:\E科技工作室(新)\NewsSolution39\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+E:\E科技工作室(新)\NewsSolution39\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\E科技工作室(新)\NewsSolution39\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+E:\E科技工作室(新)\NewsSolution39\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+H:\XiangMu\Ekeji\NewsSolution39\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+H:\XiangMu\Ekeji\NewsSolution39\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+H:\XiangMu\Ekeji\NewsSolution39\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+H:\XiangMu\Ekeji\NewsSolution39\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+H:\XiangMu\Ekeji\NewsSolution39\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+H:\XiangMu\VS2010\完成\E科技\NewsSolution39\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Users\zhi\Desktop\NewsSolution39\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Users\zhi\Desktop\NewsSolution39\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Users\zhi\Desktop\NewsSolution39\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\zhi\Desktop\NewsSolution39\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Users\zhi\Desktop\NewsSolution39\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
+C:\Users\zhi\Desktop\Software\DBUtility\bin\Debug\brwlcms.DBUtility.dll
+C:\Users\zhi\Desktop\Software\DBUtility\bin\Debug\brwlcms.DBUtility.pdb
+C:\Users\zhi\Desktop\Software\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\zhi\Desktop\Software\DBUtility\obj\Debug\brwlcms.DBUtility.dll
+C:\Users\zhi\Desktop\Software\DBUtility\obj\Debug\brwlcms.DBUtility.pdb
